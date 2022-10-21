@@ -5,7 +5,7 @@ end
 
 -- // Dependencies
 _G.PRED = 0.0345
-local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/xllaoxxzx/fuckinngr/main/sas"))()
+local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/hal3r/cantstop/side/side2"))()
 Aiming.TeamCheck(false)
 Aiming.ShowFOV = false
 Aiming.FOV = 20
