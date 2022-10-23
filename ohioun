@@ -4534,7 +4534,7 @@ function initLibrary()
     return library
 end
 local library = initLibrary()
-local lib = library:Load({name = "Yun.gay", sizeX = 378, sizeY = 498, color = Color3.fromRGB(255, 20, 88)})
+local lib = library:Load({name = "ohio.un", sizeX = 378, sizeY = 498, color = Color3.fromRGB(255, 20, 88)})
 local MainTab = lib:Tab("Main")
 local LegitTab = lib:Tab("Legit")
 local MiscTab = lib:Tab("Misc")
