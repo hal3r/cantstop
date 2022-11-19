@@ -7,7 +7,7 @@ end
 _G.PRED = 0.0345
 local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/xllaoxxzx/fuckinngr/main/sas"))()
 Aiming.TeamCheck(false)
-Aiming.ShowFOV = true
+Aiming.ShowFOV = false
 Aiming.FOV = 15
 -- // Services
 local Workspace = game:GetService("Workspace")
