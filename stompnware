@@ -28,8 +28,8 @@ local Mouse = game.Players.LocalPlayer:GetMouse()
 
 function makemarker(Parent, Adornee, Color, Size, Size2)
     local box = Instance.new("BillboardGui", Parent)
-    box.Name = "OhioWare"
-    box.Adornee = ohiocitizen
+    box.Name = "stompNware"
+    box.Adornee = stompinnn
     box.Size = UDim2.new(Size, Size2, Size, Size2)
     box.AlwaysOnTop = true
 
@@ -59,7 +59,7 @@ Mouse.KeyDown:Connect(function(KeyPressed)
             configs.main.enabled = true
             if configs.main.notifications == true then
                 game.StarterGui:SetCore("SendNotification", {
-                    Title = "OhioWare",
+                    Title = "stompNware",
                     Text = "Locked On;  " .. tostring(Plr.Character.Humanoid.DisplayName)
                 })
             end
