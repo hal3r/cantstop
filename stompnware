@@ -21,7 +21,7 @@ local boxsettings = {
     }
 }
 
--- dont mess with anything below
+-- do not edit anything below
 local box = Instance.new("Part", game.Workspace)
 
 local Mouse = game.Players.LocalPlayer:GetMouse()
