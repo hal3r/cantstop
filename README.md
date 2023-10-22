@@ -1,1 +1,1 @@
-made by stompN
+made by STOMPn
