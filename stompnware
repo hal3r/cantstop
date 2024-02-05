@@ -50,7 +50,7 @@ Mouse.KeyDown:Connect(function(KeyPressed)
             if configs.main.notifications == true then
                 Plr = FindClosestUser()
                 game.StarterGui:SetCore("SendNotification", {
-                    Title = "OhioWare",
+                    Title = "stompNware",
                     Text = "Unlocked;"
                 })
             end
