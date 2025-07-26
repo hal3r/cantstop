@@ -332,7 +332,7 @@ local function reportStageResult(resultText)
     local mapName, arcName = getMapAndArc()
 
     sendWebhook({
-        username = "ASTDX Bot",
+        username = "bigboywei",
         embeds = {{
             title = resultText or "Unknown Result",
             description = table.concat({
