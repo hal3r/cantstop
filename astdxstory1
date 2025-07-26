@@ -233,9 +233,9 @@ end)
 -- 🔁 Game Result Handling
 local function tryGameResultActions()
     local argsList = {
-        { Type = "Game", Index = "Level", Mode = "Reward" },   -- Next
+--        { Type = "Game", Index = "Level", Mode = "Reward" },   -- Next
         { Type = "Game", Index = "Replay", Mode = "Reward" },  -- Replay
-        { Type = "Game", Index = "Return", Mode = "Reward" }   -- Return
+--        { Type = "Game", Index = "Return", Mode = "Reward" }   -- Return
     }
 
     for i, args in ipairs(argsList) do
@@ -347,7 +347,7 @@ local function reportStageResult(resultText)
         }}
     })
 
-    print("📤 Webhook (disabled) for result:", resultText, "📍", mapName, "-", arcName)
+    print("📤 Webhook sent for result:", resultText, "📍", mapName, "-", arcName)
 end
 
 -- ✅ Initial vote before first match
