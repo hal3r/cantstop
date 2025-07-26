@@ -109,11 +109,6 @@ local function autoPlaceAndUpgrade()
         table.insert(summonList, { name = "Uryu", cf = uryuCFs[i] })
     end
 
-    -- Place Goku exactly 4 times at fixed positions
-    for i = 1, #gokuCFs do
-        table.insert(summonList, { name = "Goku", cf = gokuCFs[i] })
-    end
-
     -- Place each 4-star unit (max 4) according to their place type
     for _, unit in ipairs(fourStarUnits) do
         local placeType = unit.Place
@@ -175,25 +170,6 @@ local function autoPlaceAndUpgrade()
     -- 1) All Uryu units
     for _, unit in ipairs(placedUnits) do
         if unit.Name == "Uryu" then
-            local formData = FormInfo:InvokeServer(unit.Name)
-            local maxUpgrades = #formData
-            while (unit:GetAttribute("UpgradeLevel") or 0) < maxUpgrades do
-                local resultFrame = MainUI:FindFirstChild("ResultFrame")
-                if resultFrame and resultFrame.Visible then
-                    warn("🛑 Match ended. Stopping upgrade for", unit.Name)
-                    break
-                end
-                pcall(function()
-                    GetFunction:InvokeServer({ Type = "GameStuff" }, { "Upgrade", unit })
-                end)
-                task.wait(1)
-            end
-        end
-    end
-
-    -- 2) All Goku units
-    for _, unit in ipairs(placedUnits) do
-        if unit.Name == "Goku" then
             local formData = FormInfo:InvokeServer(unit.Name)
             local maxUpgrades = #formData
             while (unit:GetAttribute("UpgradeLevel") or 0) < maxUpgrades do
