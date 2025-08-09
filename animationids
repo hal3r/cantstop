@@ -1,0 +1,5830 @@
+{
+  "Animations/Weapons/RapierM1s": [
+    {
+      "Name": "1",
+      "ID": "rbxassetid://15656063732"
+    },
+    {
+      "Name": "2",
+      "ID": "rbxassetid://15656066582"
+    },
+    {
+      "Name": "3",
+      "ID": "rbxassetid://15656068895"
+    },
+    {
+      "Name": "4",
+      "ID": "rbxassetid://15656072148"
+    },
+    {
+      "Name": "5",
+      "ID": "rbxassetid://15656081922"
+    }
+  ],
+  "MonsterModels/Monsters/.Prowler/Animations": [
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://18536933792"
+    },
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://15686010313"
+    },
+    {
+      "Name": "Attack3",
+      "ID": "rbxassetid://15686010313"
+    },
+    {
+      "Name": "Attack2",
+      "ID": "rbxassetid://15688996008"
+    },
+    {
+      "Name": "Attack4",
+      "ID": "rbxassetid://15686010313"
+    },
+    {
+      "Name": "Knocked",
+      "ID": "rbxassetid://15309667947"
+    },
+    {
+      "Name": "Howl",
+      "ID": "rbxassetid://15688736860"
+    },
+    {
+      "Name": "Execute",
+      "ID": "rbxassetid://15689269270"
+    },
+    {
+      "Name": "Walk",
+      "ID": "rbxassetid://15689250924"
+    },
+    {
+      "Name": "Run",
+      "ID": "rbxassetid://15689250924"
+    },
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://15686010313"
+    },
+    {
+      "Name": "Hungering",
+      "ID": "rbxassetid://18536904048"
+    }
+  ],
+  "Animations/Weapons/Daemon2M1s": [
+    {
+      "Name": "2",
+      "ID": "rbxassetid://125553613922799"
+    },
+    {
+      "Name": "1",
+      "ID": "rbxassetid://88327054724328"
+    },
+    {
+      "Name": "3",
+      "ID": "rbxassetid://107664651522529"
+    },
+    {
+      "Name": "4",
+      "ID": "rbxassetid://133400469836348"
+    }
+  ],
+  "MonsterModels/Monsters/.Frostbat/Animations": [
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://18482693272"
+    },
+    {
+      "Name": "DashAttack",
+      "ID": "rbxassetid://18483411505"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://18482690017"
+    },
+    {
+      "Name": "ShootProjectile",
+      "ID": "rbxassetid://18483465219"
+    },
+    {
+      "Name": "Flamethrower",
+      "ID": "rbxassetid://18497500757"
+    }
+  ],
+  "Animations/ancient_champion": [
+    {
+      "Name": "idle",
+      "ID": "rbxassetid://121314657079645"
+    },
+    {
+      "Name": "chiglide",
+      "ID": "rbxassetid://114521195735755"
+    },
+    {
+      "Name": "exaltedwind",
+      "ID": "rbxassetid://129333721305091"
+    },
+    {
+      "Name": "gentlefist",
+      "ID": "rbxassetid://114302376964165"
+    },
+    {
+      "Name": "risingdragon",
+      "ID": "rbxassetid://78113748118439"
+    },
+    {
+      "Name": "rightorbthrow",
+      "ID": "rbxassetid://76888640209161"
+    },
+    {
+      "Name": "leftorbthrow",
+      "ID": "rbxassetid://111490831098312"
+    },
+    {
+      "Name": "dragontwister",
+      "ID": "rbxassetid://108961157697544"
+    },
+    {
+      "Name": "bothorbthrow",
+      "ID": "rbxassetid://137768014701434"
+    },
+    {
+      "Name": "chiglideleft",
+      "ID": "rbxassetid://101437976793815"
+    },
+    {
+      "Name": "chiglideright",
+      "ID": "rbxassetid://101170492652748"
+    },
+    {
+      "Name": "chiglideback",
+      "ID": "rbxassetid://134221984815084"
+    },
+    {
+      "Name": "thousandstrikes",
+      "ID": "rbxassetid://122356564333056"
+    },
+    {
+      "Name": "dualityaxe",
+      "ID": "rbxassetid://88095275088529"
+    },
+    {
+      "Name": "dualityaxewindup",
+      "ID": "rbxassetid://133293378333772"
+    },
+    {
+      "Name": "exaltedwindwindup",
+      "ID": "rbxassetid://127753165937399"
+    },
+    {
+      "Name": "dragontwisterwindup",
+      "ID": "rbxassetid://113853528077611"
+    }
+  ],
+  "Animations/MonsterAnimations/.Slime": [
+    {
+      "Name": "SpawnAnimation",
+      "ID": "rbxassetid://16126430087"
+    },
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://16126518839"
+    },
+    {
+      "Name": "AttackWindup",
+      "ID": "rbxassetid://16127181863"
+    },
+    {
+      "Name": "AttackHit",
+      "ID": "rbxassetid://16144134483"
+    }
+  ],
+  "Animations/MonsterAnimations/.Prowler": [
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://15686042760"
+    },
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://15689250924"
+    },
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://15686010313"
+    },
+    {
+      "Name": "Attack3",
+      "ID": "rbxassetid://15686010313"
+    },
+    {
+      "Name": "Attack2",
+      "ID": "rbxassetid://15688996008"
+    },
+    {
+      "Name": "Attack4",
+      "ID": "rbxassetid://15686010313"
+    },
+    {
+      "Name": "Knocked",
+      "ID": "rbxassetid://15309667947"
+    },
+    {
+      "Name": "Aggro",
+      "ID": "rbxassetid://15688736860"
+    },
+    {
+      "Name": "Grip",
+      "ID": "rbxassetid://15689269270"
+    }
+  ],
+  "MonsterModels/Monsters/.StormCutterMajor/Animations": [
+    {
+      "Name": "FlyingIdle",
+      "ID": "rbxassetid://112226146304191"
+    },
+    {
+      "Name": "TransitionToFly",
+      "ID": "rbxassetid://96357087154195"
+    },
+    {
+      "Name": "AerialAttack2",
+      "ID": "rbxassetid://108761804259711"
+    },
+    {
+      "Name": "Attack3",
+      "ID": "rbxassetid://125943510077027"
+    },
+    {
+      "Name": "AerialAttack1",
+      "ID": "rbxassetid://100425010962731"
+    },
+    {
+      "Name": "Run",
+      "ID": "rbxassetid://89750600573393"
+    },
+    {
+      "Name": "Attack2",
+      "ID": "rbxassetid://73726692703377"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://103743310643002"
+    },
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://114842074297708"
+    },
+    {
+      "Name": "Wander",
+      "ID": "rbxassetid://89750600573393"
+    }
+  ],
+  "MonsterModels/Monsters/.RedScorpion/Animations": [
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://15707833417"
+    },
+    {
+      "Name": "Attack2",
+      "ID": "rbxassetid://18720187602"
+    },
+    {
+      "Name": "Attack3",
+      "ID": "rbxassetid://15707999846"
+    },
+    {
+      "Name": "Execute",
+      "ID": "rbxassetid://15708087385"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://15709222209"
+    },
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://15707772231"
+    },
+    {
+      "Name": "StingFollowup",
+      "ID": "rbxassetid://89760636242202"
+    },
+    {
+      "Name": "Attack4",
+      "ID": "rbxassetid://72605184056308"
+    }
+  ],
+  "Animations/wraith": [
+    {
+      "Name": "voidcastigation",
+      "ID": "rbxassetid://17495414464"
+    },
+    {
+      "Name": "equipblindfold",
+      "ID": "rbxassetid://17501784473"
+    },
+    {
+      "Name": "unequipblindfold",
+      "ID": "rbxassetid://17501787169"
+    },
+    {
+      "Name": "wraithdodgeleft",
+      "ID": "rbxassetid://17501765423"
+    },
+    {
+      "Name": "wraithdodgeright",
+      "ID": "rbxassetid://17501777369"
+    },
+    {
+      "Name": "voidencroachment",
+      "ID": "rbxassetid://17520706987"
+    }
+  ],
+  "Animations/MonsterAnimations/.IceGolem": [
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://17165566111"
+    },
+    {
+      "Name": "SlamIdle",
+      "ID": "rbxassetid://17165570483"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://17165562283"
+    },
+    {
+      "Name": "Death",
+      "ID": "rbxassetid://17165559836"
+    },
+    {
+      "Name": "Slam",
+      "ID": "rbxassetid://17165578097"
+    },
+    {
+      "Name": "Stomp",
+      "ID": "rbxassetid://17165878374"
+    },
+    {
+      "Name": "Swing",
+      "ID": "rbxassetid://17166000807"
+    },
+    {
+      "Name": "BackhandWindup",
+      "ID": "rbxassetid://17175769899"
+    },
+    {
+      "Name": "Backhand",
+      "ID": "rbxassetid://17175783862"
+    },
+    {
+      "Name": "BackhandIdle",
+      "ID": "rbxassetid://17175786881"
+    },
+    {
+      "Name": "GrabAttempt",
+      "ID": "rbxassetid://17175893320"
+    },
+    {
+      "Name": "Throw",
+      "ID": "rbxassetid://17175898843"
+    }
+  ],
+  "Animations/hitman": [
+    {
+      "Name": "lightgrenade",
+      "ID": "rbxassetid://17270860407"
+    },
+    {
+      "Name": "cointoss",
+      "ID": "rbxassetid://17270858928"
+    },
+    {
+      "Name": "coingrab",
+      "ID": "rbxassetid://17270856614"
+    },
+    {
+      "Name": "nightraidaerial",
+      "ID": "rbxassetid://18925377322"
+    },
+    {
+      "Name": "nightrend",
+      "ID": "rbxassetid://18927339094"
+    },
+    {
+      "Name": "nightrendaerial",
+      "ID": "rbxassetid://18927362826"
+    }
+  ],
+  "Animations/Weapons/DaemonM1s": [
+    {
+      "Name": "4",
+      "ID": "rbxassetid://100357849679586"
+    },
+    {
+      "Name": "3",
+      "ID": "rbxassetid://114815438145858"
+    },
+    {
+      "Name": "2",
+      "ID": "rbxassetid://73099090459858"
+    },
+    {
+      "Name": "1",
+      "ID": "rbxassetid://117875175361061"
+    }
+  ],
+  "Animations/Weapons/KhopeshM1s": [
+    {
+      "Name": "1",
+      "ID": "rbxassetid://17291378825"
+    },
+    {
+      "Name": "2",
+      "ID": "rbxassetid://16601217295"
+    },
+    {
+      "Name": "3",
+      "ID": "rbxassetid://16601193120"
+    },
+    {
+      "Name": "4",
+      "ID": "rbxassetid://17291400354"
+    }
+  ],
+  "MonsterModels/Monsters/.Coroblob/Animations": [
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://16234691404"
+    },
+    {
+      "Name": "Attack2",
+      "ID": "rbxassetid://16248256511"
+    },
+    {
+      "Name": "Grab",
+      "ID": "rbxassetid://16248433515"
+    },
+    {
+      "Name": "GrabSlam",
+      "ID": "rbxassetid://16248921964"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://16234396552"
+    },
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://16234376583"
+    },
+    {
+      "Name": "Stun1",
+      "ID": "rbxassetid://16234410594"
+    },
+    {
+      "Name": "TP",
+      "ID": "rbxassetid://18482148391"
+    }
+  ],
+  "Animations/MonsterAnimations/.Coroblob/DamageReactions": [
+    {
+      "Name": "Stun1",
+      "ID": "rbxassetid://16234410594"
+    }
+  ],
+  "MonsterModels/Monsters/.StormCutter/Animations": [
+    {
+      "Name": "Attack2Empowered",
+      "ID": "rbxassetid://103862378429582"
+    },
+    {
+      "Name": "Attack1Empowered",
+      "ID": "rbxassetid://109445032136666"
+    },
+    {
+      "Name": "Run",
+      "ID": "rbxassetid://89750600573393"
+    },
+    {
+      "Name": "Attack3",
+      "ID": "rbxassetid://117790768312877"
+    },
+    {
+      "Name": "Attack2",
+      "ID": "rbxassetid://87069096166288"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://124688714739287"
+    },
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://129751613854431"
+    },
+    {
+      "Name": "Wander",
+      "ID": "rbxassetid://89750600573393"
+    }
+  ],
+  "Animations/Weapons/NectarspineM1s": [
+    {
+      "Name": "1",
+      "ID": "rbxassetid://108273931210142"
+    },
+    {
+      "Name": "2",
+      "ID": "rbxassetid://82040063499111"
+    },
+    {
+      "Name": "3",
+      "ID": "rbxassetid://118417277508646"
+    },
+    {
+      "Name": "4",
+      "ID": "rbxassetid://107200663724138"
+    }
+  ],
+  "Animations/CharacterAnimations": [
+    {
+      "Name": "GunOffhandIdle",
+      "ID": "rbxassetid://124207354618448"
+    },
+    {
+      "Name": "BlackrockIdle",
+      "ID": "rbxassetid://96330153971730"
+    },
+    {
+      "Name": "EMOTE_sit3",
+      "ID": "rbxassetid://15436066884"
+    },
+    {
+      "Name": "StaffBlock",
+      "ID": "rbxassetid://139897599799710"
+    },
+    {
+      "Name": "ChainsIdle",
+      "ID": "rbxassetid://87294606778783"
+    },
+    {
+      "Name": "SlideDash",
+      "ID": "rbxassetid://134850011339805"
+    },
+    {
+      "Name": "SlideJump",
+      "ID": "rbxassetid://72709163103834"
+    },
+    {
+      "Name": "CrouchedWalk",
+      "ID": "rbxassetid://114883032530986"
+    },
+    {
+      "Name": "EMOTE_sleep",
+      "ID": "rbxassetid://78500462199882"
+    },
+    {
+      "Name": "Sleep",
+      "ID": "rbxassetid://78500462199882"
+    },
+    {
+      "Name": "FourArmWalk",
+      "ID": "rbxassetid://124215120025694"
+    },
+    {
+      "Name": "TorturedDash",
+      "ID": "rbxassetid://116673392073594"
+    },
+    {
+      "Name": "SandstormSpin",
+      "ID": "rbxassetid://18418790694"
+    },
+    {
+      "Name": "DodgeAttempt",
+      "ID": "rbxassetid://17724826771"
+    },
+    {
+      "Name": "MalleatorIdle",
+      "ID": "rbxassetid://17579323955"
+    },
+    {
+      "Name": "DaemonIdle",
+      "ID": "rbxassetid://85114946635559"
+    },
+    {
+      "Name": "ProwlerSprint",
+      "ID": "rbxassetid://17186000376"
+    },
+    {
+      "Name": "ProwlerWalk",
+      "ID": "rbxassetid://17185998011"
+    },
+    {
+      "Name": "BladeLineageSprint",
+      "ID": "rbxassetid://16484541983"
+    },
+    {
+      "Name": "ScytheIdle",
+      "ID": "rbxassetid://17334786575"
+    },
+    {
+      "Name": "SwordBlock",
+      "ID": "rbxassetid://16374424155"
+    },
+    {
+      "Name": "ExcaliburIdle",
+      "ID": "rbxassetid://16283186748"
+    },
+    {
+      "Name": "EMOTE_mojo1",
+      "ID": "rbxassetid://16259664550"
+    },
+    {
+      "Name": "GunIdle",
+      "ID": "rbxassetid://16250687537"
+    },
+    {
+      "Name": "Flashstep",
+      "ID": "rbxassetid://15612888514"
+    },
+    {
+      "Name": "OldSprint",
+      "ID": "rbxassetid://16372837438"
+    },
+    {
+      "Name": "Wind",
+      "ID": "rbxassetid://15605361175"
+    },
+    {
+      "Name": "EMOTE_bowdown",
+      "ID": "rbxassetid://15436098739"
+    },
+    {
+      "Name": "EMOTE_realdab",
+      "ID": "rbxassetid://15436019141"
+    },
+    {
+      "Name": "CutlassIdle",
+      "ID": "rbxassetid://130239943513953"
+    },
+    {
+      "Name": "Crouch",
+      "ID": "rbxassetid://103521273204500"
+    },
+    {
+      "Name": "LizardCrawl",
+      "ID": "rbxassetid://15272010562"
+    },
+    {
+      "Name": "Eat",
+      "ID": "rbxassetid://15202527925"
+    },
+    {
+      "Name": "Sign7",
+      "ID": "rbxassetid://15170554031"
+    },
+    {
+      "Name": "Sign2",
+      "ID": "rbxassetid://15170521004"
+    },
+    {
+      "Name": "Sign1",
+      "ID": "rbxassetid://15170514584"
+    },
+    {
+      "Name": "ManaRun",
+      "ID": "rbxassetid://17403298998"
+    },
+    {
+      "Name": "SpearBeatdownAnimation",
+      "ID": "rbxassetid://15136169925"
+    },
+    {
+      "Name": "SpearBeatdownVictim",
+      "ID": "rbxassetid://15133381948"
+    },
+    {
+      "Name": "SpearBeatdownAttacker",
+      "ID": "rbxassetid://15133371652"
+    },
+    {
+      "Name": "TearRun",
+      "ID": "rbxassetid://15046044587"
+    },
+    {
+      "Name": "BladeLineageIdle",
+      "ID": "rbxassetid://16484553562"
+    },
+    {
+      "Name": "ClimbUp",
+      "ID": "rbxassetid://14908497833"
+    },
+    {
+      "Name": "SwordIdle",
+      "ID": "rbxassetid://15170761806"
+    },
+    {
+      "Name": "FrontDash",
+      "ID": "rbxassetid://14641776632"
+    },
+    {
+      "Name": "SwimMovement",
+      "ID": "rbxassetid://15144523105"
+    },
+    {
+      "Name": "LeftDash",
+      "ID": "rbxassetid://14641773612"
+    },
+    {
+      "Name": "RightDash",
+      "ID": "rbxassetid://14641775200"
+    },
+    {
+      "Name": "Blocking",
+      "ID": "rbxassetid://14609401162"
+    },
+    {
+      "Name": "Sprint",
+      "ID": "rbxassetid://140607830043212"
+    },
+    {
+      "Name": "Landing",
+      "ID": "rbxassetid://95564839756241"
+    },
+    {
+      "Name": "Geppo2",
+      "ID": "rbxassetid://15659204384"
+    },
+    {
+      "Name": "DaggerDownslam",
+      "ID": "rbxassetid://15647439397"
+    },
+    {
+      "Name": "spartanblock",
+      "ID": "rbxassetid://17192065506"
+    },
+    {
+      "Name": "ScytheBlock",
+      "ID": "rbxassetid://16434904292"
+    },
+    {
+      "Name": "EMOTE_rest",
+      "ID": "rbxassetid://15436052853"
+    },
+    {
+      "Name": "BlockingNagamaki",
+      "ID": "rbxassetid://111926349493541"
+    },
+    {
+      "Name": "Sign5",
+      "ID": "rbxassetid://15170535648"
+    },
+    {
+      "Name": "BlockReact",
+      "ID": "rbxassetid://75934799612629"
+    },
+    {
+      "Name": "KnockedIdle",
+      "ID": "rbxassetid://14945655843"
+    },
+    {
+      "Name": "SignIdle",
+      "ID": "rbxassetid://15170507717"
+    },
+    {
+      "Name": "GreatswordIdle",
+      "ID": "rbxassetid://15046583139"
+    },
+    {
+      "Name": "Geppo1",
+      "ID": "rbxassetid://15659204384"
+    },
+    {
+      "Name": "ProwlerDash",
+      "ID": "rbxassetid://17279274900"
+    },
+    {
+      "Name": "BackDash",
+      "ID": "rbxassetid://14641770478"
+    },
+    {
+      "Name": "EMOTE_sit1",
+      "ID": "rbxassetid://15436052853"
+    },
+    {
+      "Name": "SpearBeatdownCharge",
+      "ID": "rbxassetid://15133693713"
+    },
+    {
+      "Name": "EMOTE_pride",
+      "ID": "rbxassetid://134574694739203"
+    },
+    {
+      "Name": "HalberdIdle",
+      "ID": "rbxassetid://87979527510598"
+    },
+    {
+      "Name": "Meditate",
+      "ID": "rbxassetid://15426529355"
+    },
+    {
+      "Name": "CrouchedIdle",
+      "ID": "rbxassetid://75106541339262"
+    },
+    {
+      "Name": "SpireSprint",
+      "ID": "rbxassetid://95440869877908"
+    },
+    {
+      "Name": "FourArmSprint",
+      "ID": "rbxassetid://70933886710580"
+    },
+    {
+      "Name": "ClimbDown",
+      "ID": "rbxassetid://14908497833"
+    },
+    {
+      "Name": "Sign9",
+      "ID": "rbxassetid://15170568884"
+    },
+    {
+      "Name": "Sign8",
+      "ID": "rbxassetid://15170564071"
+    },
+    {
+      "Name": "SpearIdle",
+      "ID": "rbxassetid://15090980830"
+    },
+    {
+      "Name": "SpireIdle",
+      "ID": "rbxassetid://135651005741557"
+    },
+    {
+      "Name": "ProwlerSummon",
+      "ID": "rbxassetid://17186062598"
+    },
+    {
+      "Name": "ClimbLeft",
+      "ID": "rbxassetid://17403361412"
+    },
+    {
+      "Name": "TearAttack",
+      "ID": "rbxassetid://15046052856"
+    },
+    {
+      "Name": "Surf",
+      "ID": "rbxassetid://16011705893"
+    },
+    {
+      "Name": "FourArmIdleExtra",
+      "ID": "rbxassetid://126734570384077"
+    },
+    {
+      "Name": "mojo",
+      "ID": "rbxassetid://16259614994"
+    },
+    {
+      "Name": "RapierIdle",
+      "ID": "rbxassetid://17399496621"
+    },
+    {
+      "Name": "OdachiIdle",
+      "ID": "rbxassetid://16590185202"
+    },
+    {
+      "Name": "SeekMeditate",
+      "ID": "rbxassetid://15426529355"
+    },
+    {
+      "Name": "Cactowarp",
+      "ID": "rbxassetid://15852489590"
+    },
+    {
+      "Name": "MaintenanceActive",
+      "ID": "rbxassetid://15332729189"
+    },
+    {
+      "Name": "Dodge",
+      "ID": "rbxassetid://15977628240"
+    },
+    {
+      "Name": "Sign6",
+      "ID": "rbxassetid://15170546536"
+    },
+    {
+      "Name": "DestroyerDive",
+      "ID": "rbxassetid://18760507037"
+    },
+    {
+      "Name": "EMOTE_chill",
+      "ID": "rbxassetid://108649629583861"
+    },
+    {
+      "Name": "SpireWalk",
+      "ID": "rbxassetid://123437209380498"
+    },
+    {
+      "Name": "NagamakiIdle",
+      "ID": "rbxassetid://84011832430132"
+    },
+    {
+      "Name": "Sign4",
+      "ID": "rbxassetid://15170532000"
+    },
+    {
+      "Name": "BoStaffIdle",
+      "ID": "rbxassetid://18656747607"
+    },
+    {
+      "Name": "KnockedCrawl",
+      "ID": "rbxassetid://14945681987"
+    },
+    {
+      "Name": "WitchdoctorIdle",
+      "ID": "rbxassetid://96578879186167"
+    },
+    {
+      "Name": "SlideAir",
+      "ID": "rbxassetid://72964797257562"
+    },
+    {
+      "Name": "EMOTE_sit4",
+      "ID": "rbxassetid://71423727275252"
+    },
+    {
+      "Name": "ClimbIdle",
+      "ID": "rbxassetid://14908494859"
+    },
+    {
+      "Name": "EMOTE_sit2",
+      "ID": "rbxassetid://15436059212"
+    },
+    {
+      "Name": "EMOTE_bow",
+      "ID": "rbxassetid://15436088352"
+    },
+    {
+      "Name": "EMOTE_kneel",
+      "ID": "rbxassetid://97905643859423"
+    },
+    {
+      "Name": "FourArmIdle",
+      "ID": "rbxassetid://126734570384077"
+    },
+    {
+      "Name": "SpearBlock",
+      "ID": "rbxassetid://16374424155"
+    },
+    {
+      "Name": "Slide",
+      "ID": "rbxassetid://121629701836456"
+    },
+    {
+      "Name": "EMOTE_meditate",
+      "ID": "rbxassetid://15426529355"
+    },
+    {
+      "Name": "ClimbRight",
+      "ID": "rbxassetid://17403368570"
+    },
+    {
+      "Name": "NajavaIdle",
+      "ID": "rbxassetid://72091090049408"
+    },
+    {
+      "Name": "ScissorsIdle",
+      "ID": "rbxassetid://85333805901013"
+    },
+    {
+      "Name": "EMOTE_sit",
+      "ID": "rbxassetid://15436052853"
+    },
+    {
+      "Name": "Fishing",
+      "ID": "rbxassetid://15853342161"
+    },
+    {
+      "Name": "ApexDoubleJump",
+      "ID": "rbxassetid://15272480011"
+    },
+    {
+      "Name": "Sign3",
+      "ID": "rbxassetid://15170525049"
+    },
+    {
+      "Name": "Vault",
+      "ID": "rbxassetid://16091380856"
+    },
+    {
+      "Name": "PotionDrink",
+      "ID": "rbxassetid://15212590440"
+    },
+    {
+      "Name": "DaggerBlock",
+      "ID": "rbxassetid://17390144336"
+    },
+    {
+      "Name": "ProwlerIdle",
+      "ID": "rbxassetid://17185989110"
+    },
+    {
+      "Name": "Knockdown",
+      "ID": "rbxassetid://14989367149"
+    },
+    {
+      "Name": "NectarspineIdle",
+      "ID": "rbxassetid://75692903349924"
+    },
+    {
+      "Name": "Daemon2Idle",
+      "ID": "rbxassetid://86981030254591"
+    },
+    {
+      "Name": "CaestusIdle",
+      "ID": "rbxassetid://74417534778180"
+    }
+  ],
+  "MonsterModels/Monsters/.ForestEnt/Animations": [
+    {
+      "Name": "Grip",
+      "ID": "rbxassetid://15708087385"
+    },
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://75011747185787"
+    },
+    {
+      "Name": "Attack2",
+      "ID": "rbxassetid://118522772874117"
+    },
+    {
+      "Name": "Attack3",
+      "ID": "rbxassetid://75643856752021"
+    },
+    {
+      "Name": "Attack4",
+      "ID": "rbxassetid://119294570989839"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://113826212799065"
+    },
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://93575698670725"
+    },
+    {
+      "Name": "Block",
+      "ID": "rbxassetid://122447936816508"
+    },
+    {
+      "Name": "Awaken",
+      "ID": "rbxassetid://127038116435128"
+    }
+  ],
+  "MonsterModels/Monsters/.LesserCoroblob/Animations/DamageReactions": [
+    {
+      "Name": "Stun1",
+      "ID": "rbxassetid://16234410594"
+    }
+  ],
+  "Animations/Weapons/OdachiM1s": [
+    {
+      "Name": "1",
+      "ID": "rbxassetid://16601187551"
+    },
+    {
+      "Name": "2",
+      "ID": "rbxassetid://16601217295"
+    },
+    {
+      "Name": "3",
+      "ID": "rbxassetid://16601193120"
+    },
+    {
+      "Name": "4",
+      "ID": "rbxassetid://16601263519"
+    }
+  ],
+  "Animations/bucaneer": [
+    {
+      "Name": "TidalFoulPlay",
+      "ID": "rbxassetid://86464777362240"
+    },
+    {
+      "Name": "TidalFoulPlayFollowup",
+      "ID": "rbxassetid://122162303905000"
+    },
+    {
+      "Name": "TailIdle",
+      "ID": "rbxassetid://131789085450336"
+    },
+    {
+      "Name": "ConduitLoop",
+      "ID": "rbxassetid://16072474454"
+    }
+  ],
+  "Animations/Weapons/MalleatorM1s": [
+    {
+      "Name": "1",
+      "ID": "rbxassetid://17579314950"
+    },
+    {
+      "Name": "2",
+      "ID": "rbxassetid://17486963369"
+    },
+    {
+      "Name": "3",
+      "ID": "rbxassetid://17486969645"
+    },
+    {
+      "Name": "4",
+      "ID": "rbxassetid://17486972006"
+    }
+  ],
+  "Animations": [
+    {
+      "Name": "Bane_User",
+      "ID": "rbxassetid://15668309609"
+    },
+    {
+      "Name": "EnterPurgGate",
+      "ID": "rbxassetid://14875025997"
+    },
+    {
+      "Name": "VitalSlash",
+      "ID": "rbxassetid://14921033563"
+    },
+    {
+      "Name": "SwordThrust",
+      "ID": "rbxassetid://14922433937"
+    },
+    {
+      "Name": "FireCharge",
+      "ID": "rbxassetid://14934450019"
+    },
+    {
+      "Name": "LightningChargeActivate",
+      "ID": "rbxassetid://14935309507"
+    },
+    {
+      "Name": "IceChargeActivate",
+      "ID": "rbxassetid://14935913035"
+    },
+    {
+      "Name": "Electrocuted",
+      "ID": "rbxassetid://14936706336"
+    },
+    {
+      "Name": "RSideStep",
+      "ID": "rbxassetid://16318356190"
+    },
+    {
+      "Name": "Carrying",
+      "ID": "rbxassetid://14945139146"
+    },
+    {
+      "Name": "PickUp",
+      "ID": "rbxassetid://14945775499"
+    },
+    {
+      "Name": "FistReign",
+      "ID": "rbxassetid://16651004876"
+    },
+    {
+      "Name": "Uppercut",
+      "ID": "rbxassetid://14978129326"
+    },
+    {
+      "Name": "LeapSlamJump",
+      "ID": "rbxassetid://14978877480"
+    },
+    {
+      "Name": "LeapSlamFall",
+      "ID": "rbxassetid://14978879031"
+    },
+    {
+      "Name": "LeapSlam",
+      "ID": "rbxassetid://14978881909"
+    },
+    {
+      "Name": "KickCourseSpin",
+      "ID": "rbxassetid://14979507421"
+    },
+    {
+      "Name": "KickCourseWindup",
+      "ID": "rbxassetid://0"
+    },
+    {
+      "Name": "PalmThrust",
+      "ID": "rbxassetid://14979584899"
+    },
+    {
+      "Name": "Ravish",
+      "ID": "rbxassetid://15039953823"
+    },
+    {
+      "Name": "Knockdown",
+      "ID": "rbxassetid://17260814065"
+    },
+    {
+      "Name": "TearRun",
+      "ID": "rbxassetid://15046044587"
+    },
+    {
+      "Name": "TearAttack",
+      "ID": "rbxassetid://15046052856"
+    },
+    {
+      "Name": "GutStrike",
+      "ID": "rbxassetid://17663939762"
+    },
+    {
+      "Name": "OrderAnim",
+      "ID": "rbxassetid://16651259682"
+    },
+    {
+      "Name": "OrderKickAnim",
+      "ID": "rbxassetid://16651257822"
+    },
+    {
+      "Name": "FlashstrikeThrowProjectile",
+      "ID": "rbxassetid://15075927208"
+    },
+    {
+      "Name": "CountlessDagger",
+      "ID": "rbxassetid://15155549301"
+    },
+    {
+      "Name": "PoisonDagger",
+      "ID": "rbxassetid://15083445744"
+    },
+    {
+      "Name": "SeekAnim",
+      "ID": "rbxassetid://15086230732"
+    },
+    {
+      "Name": "SpearJab",
+      "ID": "rbxassetid://15098106329"
+    },
+    {
+      "Name": "SpearPuncture",
+      "ID": "rbxassetid://15171366623"
+    },
+    {
+      "Name": "PunctureStun",
+      "ID": "rbxassetid://15098213180"
+    },
+    {
+      "Name": "LochRise",
+      "ID": "rbxassetid://15115040913"
+    },
+    {
+      "Name": "SpearSlam",
+      "ID": "rbxassetid://15100764689"
+    },
+    {
+      "Name": "GladiatorTaunt",
+      "ID": "rbxassetid://15108016378"
+    },
+    {
+      "Name": "Shatter",
+      "ID": "rbxassetid://15108100010"
+    },
+    {
+      "Name": "DustKick",
+      "ID": "rbxassetid://15108597273"
+    },
+    {
+      "Name": "SpearBeatdownCharge",
+      "ID": "rbxassetid://15133693713"
+    },
+    {
+      "Name": "SpearBeatdownAttacker",
+      "ID": "rbxassetid://15133371652"
+    },
+    {
+      "Name": "SpearBeatdownVictim",
+      "ID": "rbxassetid://15133381948"
+    },
+    {
+      "Name": "SpearBeatdownAnimation",
+      "ID": "rbxassetid://15136169925"
+    },
+    {
+      "Name": "WhiteKnightCounterAnim",
+      "ID": "rbxassetid://15740146786"
+    },
+    {
+      "Name": "Slice",
+      "ID": "rbxassetid://15230328507"
+    },
+    {
+      "Name": "CastWhirlpool",
+      "ID": "rbxassetid://15247377871"
+    },
+    {
+      "Name": "Eat",
+      "ID": "rbxassetid://15202527925"
+    },
+    {
+      "Name": "QuickstrikeAnim2",
+      "ID": "rbxassetid://15230291122"
+    },
+    {
+      "Name": "SwallowTrinket",
+      "ID": "rbxassetid://15272102527"
+    },
+    {
+      "Name": "QuickYell",
+      "ID": "rbxassetid://15304832831"
+    },
+    {
+      "Name": "EquipHelmet",
+      "ID": "rbxassetid://15332062895"
+    },
+    {
+      "Name": "Meditate",
+      "ID": "rbxassetid://15426529355"
+    },
+    {
+      "Name": "GreatswordLungeSlam",
+      "ID": "rbxassetid://15345718904"
+    },
+    {
+      "Name": "EatApple",
+      "ID": "rbxassetid://15352520883"
+    },
+    {
+      "Name": "ThrowPotion",
+      "ID": "rbxassetid://15367323796"
+    },
+    {
+      "Name": "PickaxeMine",
+      "ID": "rbxassetid://15417909934"
+    },
+    {
+      "Name": "PickUpShard",
+      "ID": "rbxassetid://15507643308"
+    },
+    {
+      "Name": "ShadowBeamAnim",
+      "ID": "rbxassetid://15602210627"
+    },
+    {
+      "Name": "RapierSliceAnim",
+      "ID": "rbxassetid://121499939788637"
+    },
+    {
+      "Name": "DaggerLunge",
+      "ID": "rbxassetid://15647065721"
+    },
+    {
+      "Name": "RAPIER_BRING_W_QRYS_ANIM",
+      "ID": "rbxassetid://15647729812"
+    },
+    {
+      "Name": "DaggerSlammed",
+      "ID": "rbxassetid://15647587343"
+    },
+    {
+      "Name": "DaggerDownslam",
+      "ID": "rbxassetid://15647439397"
+    },
+    {
+      "Name": "rapierbringthenhit",
+      "ID": "rbxassetid://15647777527"
+    },
+    {
+      "Name": "VanisherImpact",
+      "ID": "rbxassetid://15661629346"
+    },
+    {
+      "Name": "Bane_Victim",
+      "ID": "rbxassetid://15668295283"
+    },
+    {
+      "Name": "Bane_Start",
+      "ID": "rbxassetid://15668351216"
+    },
+    {
+      "Name": "SupermatterCrit",
+      "ID": "rbxassetid://16651338972"
+    },
+    {
+      "Name": "PhaseStart",
+      "ID": "rbxassetid://15853844445"
+    },
+    {
+      "Name": "GutStrikeNew",
+      "ID": "rbxassetid://95664190796230"
+    },
+    {
+      "Name": "AddBait",
+      "ID": "rbxassetid://15853134247"
+    },
+    {
+      "Name": "PhaseStartOld",
+      "ID": "rbxassetid://15851553781"
+    },
+    {
+      "Name": "FishPull3",
+      "ID": "rbxassetid://15854155883"
+    },
+    {
+      "Name": "FishPull2",
+      "ID": "rbxassetid://15854152979"
+    },
+    {
+      "Name": "FishPull1",
+      "ID": "rbxassetid://15854148680"
+    },
+    {
+      "Name": "FishFound",
+      "ID": "rbxassetid://15854447629"
+    },
+    {
+      "Name": "RodCast",
+      "ID": "rbxassetid://15854478833"
+    },
+    {
+      "Name": "Aqualunge",
+      "ID": "rbxassetid://16020772410"
+    },
+    {
+      "Name": "Reservoir",
+      "ID": "rbxassetid://16595638100"
+    },
+    {
+      "Name": "Blocking",
+      "ID": "rbxassetid://14609401162"
+    },
+    {
+      "Name": "FireArrow",
+      "ID": "rbxassetid://16093718042"
+    },
+    {
+      "Name": "LurkerbladeCritThrow",
+      "ID": "rbxassetid://16114761600"
+    },
+    {
+      "Name": "Decompose",
+      "ID": "rbxassetid://16217071372"
+    },
+    {
+      "Name": "DecomposeClick",
+      "ID": "rbxassetid://16217056438"
+    },
+    {
+      "Name": "DecomposeLoop",
+      "ID": "rbxassetid://16217259769"
+    },
+    {
+      "Name": "InsanityShake",
+      "ID": "rbxassetid://16234908850"
+    },
+    {
+      "Name": "InsanityDeath",
+      "ID": "rbxassetid://16234962632"
+    },
+    {
+      "Name": "Cough",
+      "ID": "rbxassetid://16236956982"
+    },
+    {
+      "Name": "CheapShotGrab",
+      "ID": "rbxassetid://16251797181"
+    },
+    {
+      "Name": "CheapShot",
+      "ID": "rbxassetid://16251844155"
+    },
+    {
+      "Name": "CheapShotVictim",
+      "ID": "rbxassetid://16251861836"
+    },
+    {
+      "Name": "PistolWhip",
+      "ID": "rbxassetid://16252007583"
+    },
+    {
+      "Name": "GunLunge",
+      "ID": "rbxassetid://16315797837"
+    },
+    {
+      "Name": "SpiritBomb",
+      "ID": "rbxassetid://16305518581"
+    },
+    {
+      "Name": "LightningRelease",
+      "ID": "rbxassetid://16283391455"
+    },
+    {
+      "Name": "IceRelease",
+      "ID": "rbxassetid://16283544809"
+    },
+    {
+      "Name": "GrandLunge",
+      "ID": "rbxassetid://16284366765"
+    },
+    {
+      "Name": "Cactowarp",
+      "ID": "rbxassetid://15852489590"
+    },
+    {
+      "Name": "KingslayerGrab",
+      "ID": "rbxassetid://16255918741"
+    },
+    {
+      "Name": "KingslayerGrabbed",
+      "ID": "rbxassetid://16255929176"
+    },
+    {
+      "Name": "QuickdrawGun",
+      "ID": "rbxassetid://16336315985"
+    },
+    {
+      "Name": "DuelistMark",
+      "ID": "rbxassetid://16304608443"
+    },
+    {
+      "Name": "DuelistDropkick",
+      "ID": "rbxassetid://16307306498"
+    },
+    {
+      "Name": "WhiteFireCharge",
+      "ID": "rbxassetid://16315975161"
+    },
+    {
+      "Name": "LSideStep",
+      "ID": "rbxassetid://16318305400"
+    },
+    {
+      "Name": "BeingCarried",
+      "ID": "rbxassetid://14945140627"
+    },
+    {
+      "Name": "RapidCero",
+      "ID": "rbxassetid://16346898435"
+    },
+    {
+      "Name": "DuelistLeap",
+      "ID": "rbxassetid://16350241108"
+    },
+    {
+      "Name": "DuelistFlip",
+      "ID": "rbxassetid://16350148826"
+    },
+    {
+      "Name": "OdachiFlameSlice",
+      "ID": "rbxassetid://16603239433"
+    },
+    {
+      "Name": "Metralleta",
+      "ID": "rbxassetid://16349885567"
+    },
+    {
+      "Name": "Sweep",
+      "ID": "rbxassetid://78561293862757"
+    },
+    {
+      "Name": "Zipline",
+      "ID": "rbxassetid://16432287564"
+    },
+    {
+      "Name": "NewKickCourse",
+      "ID": "rbxassetid://16456725724"
+    },
+    {
+      "Name": "KingslayerRushGrab",
+      "ID": "rbxassetid://16468823406"
+    },
+    {
+      "Name": "CoyoteAwaken",
+      "ID": "rbxassetid://16348546814"
+    },
+    {
+      "Name": "BLAwakening",
+      "ID": "rbxassetid://17593828710"
+    },
+    {
+      "Name": "Blade Lineage Quick Strike",
+      "ID": "rbxassetid://16529179176"
+    },
+    {
+      "Name": "DevourSand",
+      "ID": "rbxassetid://16513180335"
+    },
+    {
+      "Name": "Snap",
+      "ID": "rbxassetid://16571499972"
+    },
+    {
+      "Name": "ShogunWindDash",
+      "ID": "rbxassetid://16604009472"
+    },
+    {
+      "Name": "ShogunWindSlashes",
+      "ID": "rbxassetid://16604018835"
+    },
+    {
+      "Name": "OdachiEarthSlam",
+      "ID": "rbxassetid://16651124979"
+    },
+    {
+      "Name": "OdachiWaterAttack",
+      "ID": "rbxassetid://16606390692"
+    },
+    {
+      "Name": "BLJ_Start",
+      "ID": "rbxassetid://16614634206"
+    },
+    {
+      "Name": "BLJ_User",
+      "ID": "rbxassetid://16614636880"
+    },
+    {
+      "Name": "BLJ_Victim",
+      "ID": "rbxassetid://16614641927"
+    },
+    {
+      "Name": "JumpAnim",
+      "ID": "rbxassetid://16831263808"
+    },
+    {
+      "Name": "FallAnim",
+      "ID": "rbxassetid://16831285838"
+    },
+    {
+      "Name": "AmazingResolveAnimation",
+      "ID": "rbxassetid://17111109078"
+    },
+    {
+      "Name": "Bow",
+      "ID": "rbxassetid://15436088352"
+    },
+    {
+      "Name": "Knockdown2s",
+      "ID": "rbxassetid://14989367149"
+    },
+    {
+      "Name": "ProwlerChomp1",
+      "ID": "rbxassetid://17287241198"
+    },
+    {
+      "Name": "ProwlerChomp2",
+      "ID": "rbxassetid://17287243493"
+    },
+    {
+      "Name": "IceSpikesStartup",
+      "ID": "rbxassetid://17286603263"
+    },
+    {
+      "Name": "ProwlerThrow",
+      "ID": "rbxassetid://17287987109"
+    },
+    {
+      "Name": "ProwlerPounce",
+      "ID": "rbxassetid://17287995614"
+    },
+    {
+      "Name": "ProwlerCrit",
+      "ID": "rbxassetid://18610883933"
+    },
+    {
+      "Name": "ProwlerClawstrike",
+      "ID": "rbxassetid://17288121842"
+    },
+    {
+      "Name": "ClawBarrage",
+      "ID": "rbxassetid://17288426749"
+    },
+    {
+      "Name": "ProwlerTailWhip",
+      "ID": "rbxassetid://17288873358"
+    },
+    {
+      "Name": "NomadCounter",
+      "ID": "rbxassetid://17333731792"
+    },
+    {
+      "Name": "KingslayerSpinSlash",
+      "ID": "rbxassetid://17341157353"
+    },
+    {
+      "Name": "KingslayerCounter",
+      "ID": "rbxassetid://17347607564"
+    },
+    {
+      "Name": "KingslayerCounterHit",
+      "ID": "rbxassetid://17347739220"
+    },
+    {
+      "Name": "KingslayerRegicide",
+      "ID": "rbxassetid://17415976632"
+    },
+    {
+      "Name": "Clap",
+      "ID": "rbxassetid://17429390196"
+    },
+    {
+      "Name": "ClapBoreus",
+      "ID": "rbxassetid://17438536257"
+    },
+    {
+      "Name": "ClapBoreusWindup",
+      "ID": "rbxassetid://17438554305"
+    },
+    {
+      "Name": "Puke",
+      "ID": "rbxassetid://17458667421"
+    },
+    {
+      "Name": "DaemonsmithFireglaive",
+      "ID": "rbxassetid://17561728932"
+    },
+    {
+      "Name": "StopCarrying",
+      "ID": "rbxassetid://17561167867"
+    },
+    {
+      "Name": "DaemonsmithFireglaive2",
+      "ID": "rbxassetid://17558672419"
+    },
+    {
+      "Name": "Heavy Kick",
+      "ID": "rbxassetid://17616233362"
+    },
+    {
+      "Name": "KickImpact",
+      "ID": "rbxassetid://17616466591"
+    },
+    {
+      "Name": "TearNew",
+      "ID": "rbxassetid://17651664490"
+    },
+    {
+      "Name": "DaemonsmithScreamingArtillery",
+      "ID": "rbxassetid://17695550676"
+    },
+    {
+      "Name": "Afterkick",
+      "ID": "rbxassetid://17852050010"
+    },
+    {
+      "Name": "ChestClose",
+      "ID": "rbxassetid://17874315949"
+    },
+    {
+      "Name": "ChestOpen",
+      "ID": "rbxassetid://17874306284"
+    },
+    {
+      "Name": "HylotlSpiral",
+      "ID": "rbxassetid://17888884337"
+    },
+    {
+      "Name": "AvianPlume",
+      "ID": "rbxassetid://18168368346"
+    },
+    {
+      "Name": "ThousandNeedles",
+      "ID": "rbxassetid://18183058775"
+    },
+    {
+      "Name": "SeriousPunch",
+      "ID": "rbxassetid://18646943768"
+    },
+    {
+      "Name": "BetrayStab",
+      "ID": "rbxassetid://18300022731"
+    },
+    {
+      "Name": "SoulRend",
+      "ID": "rbxassetid://18300224519"
+    },
+    {
+      "Name": "SubjugateGrabAttempt",
+      "ID": "rbxassetid://18311839412"
+    },
+    {
+      "Name": "SubjugateGrab",
+      "ID": "rbxassetid://18311896466"
+    },
+    {
+      "Name": "SubjugateGrabVictim",
+      "ID": "rbxassetid://18311934305"
+    },
+    {
+      "Name": "FKVitalSlashes",
+      "ID": "rbxassetid://18312962081"
+    },
+    {
+      "Name": "DaemonsmithScreamingArtillery2",
+      "ID": "rbxassetid://18395009899"
+    },
+    {
+      "Name": "TomelessParasiteSpec",
+      "ID": "rbxassetid://97944552433140"
+    },
+    {
+      "Name": "PommelStrike",
+      "ID": "rbxassetid://18613975331"
+    },
+    {
+      "Name": "ReignSupermatter",
+      "ID": "rbxassetid://18646099511"
+    },
+    {
+      "Name": "RavishAir",
+      "ID": "rbxassetid://18759565112"
+    },
+    {
+      "Name": "TearAir",
+      "ID": "rbxassetid://18759682604"
+    },
+    {
+      "Name": "DestroyerStomp",
+      "ID": "rbxassetid://18760186184"
+    },
+    {
+      "Name": "ParasiteCritGrab",
+      "ID": "rbxassetid://112757429310131"
+    },
+    {
+      "Name": "DestroyerExecute",
+      "ID": "rbxassetid://18865995390"
+    },
+    {
+      "Name": "FlyIdle",
+      "ID": "rbxassetid://18926567594"
+    },
+    {
+      "Name": "FlyForward",
+      "ID": "rbxassetid://18926586887"
+    },
+    {
+      "Name": "FlyUp",
+      "ID": "rbxassetid://18926595320"
+    },
+    {
+      "Name": "FlyDown",
+      "ID": "rbxassetid://18926601970"
+    },
+    {
+      "Name": "HoldPotion",
+      "ID": "rbxassetid://18942377924"
+    },
+    {
+      "Name": "OrcCharge",
+      "ID": "rbxassetid://19001582966"
+    },
+    {
+      "Name": "OsricSpec",
+      "ID": "rbxassetid://19002359669"
+    },
+    {
+      "Name": "TorturedQ",
+      "ID": "rbxassetid://78588660625598"
+    },
+    {
+      "Name": "TorturedDash",
+      "ID": "rbxassetid://78588660625598"
+    },
+    {
+      "Name": "WaterLunge",
+      "ID": "rbxassetid://81385376293446"
+    },
+    {
+      "Name": "TrinketSpit",
+      "ID": "rbxassetid://124140299882754"
+    },
+    {
+      "Name": "Conquer",
+      "ID": "rbxassetid://75667721825135"
+    },
+    {
+      "Name": "ConquerMana",
+      "ID": "rbxassetid://84032304939781"
+    },
+    {
+      "Name": "ConquerManaPart2",
+      "ID": "rbxassetid://94159683584225"
+    },
+    {
+      "Name": "ConquerManaVictim",
+      "ID": "rbxassetid://106939612883238"
+    },
+    {
+      "Name": "ConquerKick",
+      "ID": "rbxassetid://74521858334503"
+    },
+    {
+      "Name": "Conquer4Arm",
+      "ID": "rbxassetid://97909836863394"
+    },
+    {
+      "Name": "Butcher",
+      "ID": "rbxassetid://86258274188665"
+    },
+    {
+      "Name": "ButcherMana",
+      "ID": "rbxassetid://113906116450559"
+    },
+    {
+      "Name": "ButcherFourArms",
+      "ID": "rbxassetid://104432935009887"
+    },
+    {
+      "Name": "GrandFlameStab",
+      "ID": "rbxassetid://127660478930260"
+    },
+    {
+      "Name": "Dismember",
+      "ID": "rbxassetid://128931276138669"
+    },
+    {
+      "Name": "Dismember4Arm",
+      "ID": "rbxassetid://120878736194474"
+    },
+    {
+      "Name": "DaemonsmithScreamingArtilleryNoWeapon",
+      "ID": "rbxassetid://90528684567826"
+    },
+    {
+      "Name": "KatanaCritEnd",
+      "ID": "rbxassetid://90055194316132"
+    },
+    {
+      "Name": "Mugetsu",
+      "ID": "rbxassetid://127744589988162"
+    },
+    {
+      "Name": "ThrowSeekerDagger",
+      "ID": "rbxassetid://128177914516738"
+    },
+    {
+      "Name": "JudgementStrike",
+      "ID": "rbxassetid://101958344390845"
+    },
+    {
+      "Name": "DestroyerTearGround",
+      "ID": "rbxassetid://85876091396614"
+    },
+    {
+      "Name": "SeekerCounterSuccess",
+      "ID": "rbxassetid://107785350069275"
+    },
+    {
+      "Name": "SeekerCounter",
+      "ID": "rbxassetid://120219055392905"
+    },
+    {
+      "Name": "DestroyerLeap",
+      "ID": "rbxassetid://137677852421665"
+    },
+    {
+      "Name": "GodBurstRush",
+      "ID": "rbxassetid://129125075001749"
+    },
+    {
+      "Name": "ChestBeat",
+      "ID": "rbxassetid://83156183223735"
+    },
+    {
+      "Name": "FlorianBeam",
+      "ID": "rbxassetid://133979068866013"
+    },
+    {
+      "Name": "BoneSkewer",
+      "ID": "rbxassetid://97645009926419"
+    },
+    {
+      "Name": "Detonate",
+      "ID": "rbxassetid://79655430513498"
+    },
+    {
+      "Name": "Starshooter",
+      "ID": "rbxassetid://127105727728472"
+    },
+    {
+      "Name": "Vomit",
+      "ID": "rbxassetid://78099729802630"
+    },
+    {
+      "Name": "BloodsuckGrab",
+      "ID": "rbxassetid://139452933790446"
+    },
+    {
+      "Name": "Bloodsuck",
+      "ID": "rbxassetid://86805875414221"
+    },
+    {
+      "Name": "BloodsuckVictim",
+      "ID": "rbxassetid://104159522254740"
+    },
+    {
+      "Name": "RelishEat",
+      "ID": "rbxassetid://120638732989395"
+    },
+    {
+      "Name": "RelishPunch",
+      "ID": "rbxassetid://81935499523593"
+    },
+    {
+      "Name": "CarryObject",
+      "ID": "rbxassetid://134256124095573"
+    },
+    {
+      "Name": "SoulRendNew",
+      "ID": "rbxassetid://126029733638765"
+    },
+    {
+      "Name": "UseDemonHeart",
+      "ID": "rbxassetid://76539588647386"
+    },
+    {
+      "Name": "GravitySpell",
+      "ID": "rbxassetid://116281617830638"
+    },
+    {
+      "Name": "ReversePistolWhip",
+      "ID": "rbxassetid://127202280744676"
+    },
+    {
+      "Name": "ReverseGunLunge",
+      "ID": "rbxassetid://88959251209759"
+    },
+    {
+      "Name": "ReverseQuickdrawGun",
+      "ID": "rbxassetid://103220935124901"
+    },
+    {
+      "Name": "ReverseDuelistMark",
+      "ID": "rbxassetid://100486364745854"
+    },
+    {
+      "Name": "Swashbuckle",
+      "ID": "rbxassetid://125862720045970"
+    },
+    {
+      "Name": "AngelLand",
+      "ID": "rbxassetid://130851319985645"
+    },
+    {
+      "Name": "GettingSlammed",
+      "ID": "rbxassetid://126903607930492"
+    },
+    {
+      "Name": "GardenOfThornsWhip",
+      "ID": "rbxassetid://79190623399572"
+    },
+    {
+      "Name": "SwashbuckleMiss",
+      "ID": "rbxassetid://97098319491996"
+    },
+    {
+      "Name": "Hostage",
+      "ID": "rbxassetid://124398262101060"
+    },
+    {
+      "Name": "IceHammerSlam",
+      "ID": "rbxassetid://74089993510515"
+    },
+    {
+      "Name": "DragonFist",
+      "ID": "rbxassetid://98749031955904"
+    },
+    {
+      "Name": "DragonFistStartTp",
+      "ID": "rbxassetid://93267484823122"
+    },
+    {
+      "Name": "DragonFistDownslam",
+      "ID": "rbxassetid://78496083159887"
+    },
+    {
+      "Name": "DragonFistSpikeRise",
+      "ID": "rbxassetid://83047560132526"
+    },
+    {
+      "Name": "CursedRebound",
+      "ID": "rbxassetid://105631092692659"
+    },
+    {
+      "Name": "DestroyerRecastLunge",
+      "ID": "rbxassetid://135489934687856"
+    },
+    {
+      "Name": "DestroyerRoar",
+      "ID": "rbxassetid://133132997372619"
+    },
+    {
+      "Name": "DestroyerLeapUpgrade",
+      "ID": "rbxassetid://95227288786064"
+    },
+    {
+      "Name": "SpeedHeist",
+      "ID": "rbxassetid://138625608834303"
+    },
+    {
+      "Name": "TridentFury",
+      "ID": "rbxassetid://104841776879826"
+    },
+    {
+      "Name": "Guardbroken",
+      "ID": "rbxassetid://125094784775456"
+    },
+    {
+      "Name": "SwipeWindup",
+      "ID": "rbxassetid://91883841408793"
+    },
+    {
+      "Name": "LSwipe",
+      "ID": "rbxassetid://139804371866935"
+    },
+    {
+      "Name": "RSwipe",
+      "ID": "rbxassetid://121724424179881"
+    },
+    {
+      "Name": "ThrowSticker",
+      "ID": "rbxassetid://112576929855300"
+    },
+    {
+      "Name": "Dazed",
+      "ID": "rbxassetid://78648241458631"
+    },
+    {
+      "Name": "TornAdamantNew",
+      "ID": "rbxassetid://127622319062509"
+    },
+    {
+      "Name": "PullChain",
+      "ID": "rbxassetid://90899594561141"
+    },
+    {
+      "Name": "SpeedHeistBubble",
+      "ID": "rbxassetid://137298425810709"
+    },
+    {
+      "Name": "QuickForge",
+      "ID": "rbxassetid://111894224485540"
+    },
+    {
+      "Name": "MoneyShot",
+      "ID": "rbxassetid://139503502697373"
+    },
+    {
+      "Name": "TidalCombo",
+      "ID": "rbxassetid://82368001102151"
+    },
+    {
+      "Name": "TidalCombo2",
+      "ID": "rbxassetid://113478749981513"
+    },
+    {
+      "Name": "MoneyShotVariant",
+      "ID": "rbxassetid://139881464087403"
+    },
+    {
+      "Name": "MoneyShotVariantRepeat",
+      "ID": "rbxassetid://87554019063667"
+    },
+    {
+      "Name": "ThrowObject",
+      "ID": "rbxassetid://93845393946970"
+    },
+    {
+      "Name": "PetCat",
+      "ID": "rbxassetid://74347568816070"
+    },
+    {
+      "Name": "CrescendoSlam",
+      "ID": "rbxassetid://130078509441427"
+    },
+    {
+      "Name": "BalletCrescendo",
+      "ID": "rbxassetid://116164932888281"
+    },
+    {
+      "Name": "HexstarAugment",
+      "ID": "rbxassetid://106474679619928"
+    },
+    {
+      "Name": "NewPotionDrink",
+      "ID": "rbxassetid://137070507005224"
+    },
+    {
+      "Name": "ToxCramp",
+      "ID": "rbxassetid://82287869900483"
+    },
+    {
+      "Name": "Laugh",
+      "ID": "rbxassetid://129423131"
+    },
+    {
+      "Name": "StoreOre",
+      "ID": "rbxassetid://139197828606120"
+    },
+    {
+      "Name": "SporeSpreadNew",
+      "ID": "rbxassetid://99980142003515"
+    },
+    {
+      "Name": "ToxivineLash",
+      "ID": "rbxassetid://136979470247108"
+    },
+    {
+      "Name": "ToxivineLashRecast",
+      "ID": "rbxassetid://74468278485611"
+    },
+    {
+      "Name": "DryadBulbPull",
+      "ID": "rbxassetid://104079436879686"
+    },
+    {
+      "Name": "RoseLance",
+      "ID": "rbxassetid://111397552238166"
+    },
+    {
+      "Name": "PetalDance",
+      "ID": "rbxassetid://138941513031339"
+    },
+    {
+      "Name": "FlowerBounce",
+      "ID": "rbxassetid://138109264137027"
+    },
+    {
+      "Name": "PetalDanceSlam",
+      "ID": "rbxassetid://79457669900774"
+    },
+    {
+      "Name": "ManaPick",
+      "ID": "rbxassetid://105366347269608"
+    },
+    {
+      "Name": "NewSwordThrust",
+      "ID": "rbxassetid://98613632873862"
+    },
+    {
+      "Name": "UppercutM1",
+      "ID": "rbxassetid://93136157656237"
+    },
+    {
+      "Name": "ShinobiPoison",
+      "ID": "rbxassetid://136950850147654"
+    },
+    {
+      "Name": "ReworkedVitalSlashes",
+      "ID": "rbxassetid://83535346138684"
+    },
+    {
+      "Name": "CatCleanse",
+      "ID": "rbxassetid://106074993258251"
+    },
+    {
+      "Name": "Rasengan",
+      "ID": "rbxassetid://89648121369768"
+    },
+    {
+      "Name": "AirKick",
+      "ID": "rbxassetid://125396266353413"
+    },
+    {
+      "Name": "SpecVeilOpen",
+      "ID": "rbxassetid://86823157282278"
+    },
+    {
+      "Name": "BloomSurge",
+      "ID": "rbxassetid://78103937855909"
+    },
+    {
+      "Name": "DummyDeath",
+      "ID": "rbxassetid://134132431865377"
+    },
+    {
+      "Name": "AirDownslam",
+      "ID": "rbxassetid://105240974305336"
+    },
+    {
+      "Name": "Percutiens",
+      "ID": "rbxassetid://111765732434739"
+    },
+    {
+      "Name": "PotionForcefeed",
+      "ID": "rbxassetid://109169147347258"
+    },
+    {
+      "Name": "EatHeart",
+      "ID": "rbxassetid://73451979380044"
+    },
+    {
+      "Name": "UppercutV2",
+      "ID": "rbxassetid://104615779076595"
+    },
+    {
+      "Name": "AirReign",
+      "ID": "rbxassetid://107229671096808"
+    },
+    {
+      "Name": "UppercutKickFollow",
+      "ID": "rbxassetid://113573729140817"
+    },
+    {
+      "Name": "SliceNew",
+      "ID": "rbxassetid://108675996684870"
+    },
+    {
+      "Name": "SitAnim",
+      "ID": "rbxassetid://15436052853"
+    },
+    {
+      "Name": "PotionDrink",
+      "ID": "rbxassetid://15212590440"
+    },
+    {
+      "Name": "ApexDoubleJump",
+      "ID": "rbxassetid://15272480011"
+    },
+    {
+      "Name": "Meditate",
+      "ID": "rbxassetid://15426529355"
+    },
+    {
+      "Name": "KingslayerStomp",
+      "ID": "rbxassetid://16297400139"
+    },
+    {
+      "Name": "KnockbackNoRagdoll",
+      "ID": "rbxassetid://85998783129167"
+    },
+    {
+      "Name": "M1Blocked1",
+      "ID": "rbxassetid://135848302713241"
+    },
+    {
+      "Name": "M1Blocked2",
+      "ID": "rbxassetid://101935353052395"
+    },
+    {
+      "Name": "WrappedVines",
+      "ID": "rbxassetid://93214250066616"
+    },
+    {
+      "Name": "WayOfAirNew",
+      "ID": "rbxassetid://103889345591374"
+    },
+    {
+      "Name": "BloodNeedles",
+      "ID": "rbxassetid://71827227960392"
+    },
+    {
+      "Name": "Ravage",
+      "ID": "rbxassetid://71930785187599"
+    },
+    {
+      "Name": "TorturedJumping",
+      "ID": "rbxassetid://136742418541609"
+    },
+    {
+      "Name": "TorturedJumpWindup",
+      "ID": "rbxassetid://76714186555653"
+    },
+    {
+      "Name": "TorturedSlam",
+      "ID": "rbxassetid://139974603387955"
+    },
+    {
+      "Name": "UseKazoo",
+      "ID": "rbxassetid://71693334739807"
+    }
+  ],
+  "MonsterModels/Monsters/.ManifestedDaemon/Animations": [
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://115095364833364"
+    },
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://122068779167982"
+    },
+    {
+      "Name": "Agro",
+      "ID": "rbxassetid://122907397659127"
+    },
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://128694482664830"
+    },
+    {
+      "Name": "Attack2",
+      "ID": "rbxassetid://124338103337628"
+    },
+    {
+      "Name": "Attack3",
+      "ID": "rbxassetid://130442529694270"
+    },
+    {
+      "Name": "Attack4",
+      "ID": "rbxassetid://122907397659127"
+    }
+  ],
+  "Animations/MonsterAnimations/.CrimsonSlime": [
+    {
+      "Name": "SpawnAnimation",
+      "ID": "rbxassetid://16126430087"
+    },
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://16126518839"
+    },
+    {
+      "Name": "AttackWindup",
+      "ID": "rbxassetid://16127181863"
+    },
+    {
+      "Name": "AttackHit",
+      "ID": "rbxassetid://16144134483"
+    }
+  ],
+  "Animations/Weapons/MaceM1s": [
+    {
+      "Name": "4",
+      "ID": "rbxassetid://126806776427147"
+    },
+    {
+      "Name": "3",
+      "ID": "rbxassetid://93301790921336"
+    },
+    {
+      "Name": "2",
+      "ID": "rbxassetid://111750449006316"
+    },
+    {
+      "Name": "1",
+      "ID": "rbxassetid://111429016677802"
+    },
+    {
+      "Name": "5",
+      "ID": "rbxassetid://127308532704217"
+    }
+  ],
+  "MonsterModels/Monsters/.JungleGolem/Animations": [
+    {
+      "Name": "Attack5Fast",
+      "ID": "rbxassetid://90544683735646"
+    },
+    {
+      "Name": "Attack2Fast",
+      "ID": "rbxassetid://82671883843664"
+    },
+    {
+      "Name": "Attack1Fast",
+      "ID": "rbxassetid://124007083054057"
+    },
+    {
+      "Name": "Attack5",
+      "ID": "rbxassetid://137070355419586"
+    },
+    {
+      "Name": "Attack4",
+      "ID": "rbxassetid://87374352339282"
+    },
+    {
+      "Name": "Attack3",
+      "ID": "rbxassetid://96474184328768"
+    },
+    {
+      "Name": "Sleeping",
+      "ID": "rbxassetid://124951880927457"
+    },
+    {
+      "Name": "Awaken",
+      "ID": "rbxassetid://89379376128002"
+    },
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://85329124004344"
+    },
+    {
+      "Name": "Summon",
+      "ID": "rbxassetid://85533717861079"
+    },
+    {
+      "Name": "Run",
+      "ID": "rbxassetid://123036603229244"
+    },
+    {
+      "Name": "Wander",
+      "ID": "rbxassetid://123036603229244"
+    },
+    {
+      "Name": "Attack2",
+      "ID": "rbxassetid://114868775176297"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://130705653734783"
+    },
+    {
+      "Name": "Death",
+      "ID": "rbxassetid://76412940748687"
+    }
+  ],
+  "Animations/Weapons/SilverM1s": [
+    {
+      "Name": "1",
+      "ID": "rbxassetid://80303065510113"
+    },
+    {
+      "Name": "2",
+      "ID": "rbxassetid://109181671620440"
+    },
+    {
+      "Name": "3",
+      "ID": "rbxassetid://140112326970480"
+    },
+    {
+      "Name": "4",
+      "ID": "rbxassetid://75749824649739"
+    }
+  ],
+  "MonsterModels/Monsters/.Coroblob/Animations/DamageReactions": [
+    {
+      "Name": "Stun1",
+      "ID": "rbxassetid://16234410594"
+    }
+  ],
+  "MonsterModels/Monsters/.Mummy/Animations": [
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://119380257119111"
+    },
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://116446166228925"
+    },
+    {
+      "Name": "Attack2",
+      "ID": "rbxassetid://94772249267737"
+    },
+    {
+      "Name": "Attack3",
+      "ID": "rbxassetid://115829744442950"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://119499545002983"
+    }
+  ],
+  "Animations/spartan": [
+    {
+      "Name": "mightycharge",
+      "ID": "rbxassetid://17192110328"
+    },
+    {
+      "Name": "laststand",
+      "ID": "rbxassetid://17192087216"
+    },
+    {
+      "Name": "braveadvance",
+      "ID": "rbxassetid://17234716022"
+    },
+    {
+      "Name": "aegisassault",
+      "ID": "rbxassetid://17318442131"
+    }
+  ],
+  "MonsterModels/Monsters/.BurstingShroom/Animations": [
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://82118834709776"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://102763702000251"
+    },
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://102763702000251"
+    },
+    {
+      "Name": "Execute",
+      "ID": "rbxassetid://102763702000251"
+    }
+  ],
+  "Animations/Weapons/ScytheM1s": [
+    {
+      "Name": "1",
+      "ID": "rbxassetid://16434944253"
+    },
+    {
+      "Name": "2",
+      "ID": "rbxassetid://16435003232"
+    },
+    {
+      "Name": "3",
+      "ID": "rbxassetid://16434944253"
+    },
+    {
+      "Name": "4",
+      "ID": "rbxassetid://16435003232"
+    },
+    {
+      "Name": "5",
+      "ID": "rbxassetid://16435021884"
+    }
+  ],
+  "MonsterModels/Monsters/.CorruptedScorpion/Animations": [
+    {
+      "Name": "Walk",
+      "ID": "rbxassetid://15707772231"
+    },
+    {
+      "Name": "Attack2",
+      "ID": "rbxassetid://15707961791"
+    },
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://15707833417"
+    },
+    {
+      "Name": "Attack3",
+      "ID": "rbxassetid://15707999846"
+    },
+    {
+      "Name": "Grip",
+      "ID": "rbxassetid://15708087385"
+    }
+  ],
+  "MonsterModels/Monsters/.Zilard/Animations": [
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://17074370945"
+    },
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://17074383132"
+    },
+    {
+      "Name": "Attack2",
+      "ID": "rbxassetid://17074392457"
+    },
+    {
+      "Name": "Attack3",
+      "ID": "rbxassetid://17074394390"
+    },
+    {
+      "Name": "Attack4",
+      "ID": "rbxassetid://17074421311"
+    },
+    {
+      "Name": "Grip",
+      "ID": "rbxassetid://17074504978"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://17074924902"
+    },
+    {
+      "Name": "Spin",
+      "ID": "rbxassetid://111321204230430"
+    }
+  ],
+  "MonsterModels/Monsters/.StoneGolem/Animations": [
+    {
+      "Name": "Death",
+      "ID": "rbxassetid://17165559836"
+    },
+    {
+      "Name": "GrabAttempt",
+      "ID": "rbxassetid://17175893320"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://17165562283"
+    },
+    {
+      "Name": "Slam",
+      "ID": "rbxassetid://17165578097"
+    },
+    {
+      "Name": "SlamIdle",
+      "ID": "rbxassetid://17165570483"
+    },
+    {
+      "Name": "Stomp",
+      "ID": "rbxassetid://17165878374"
+    },
+    {
+      "Name": "Swing",
+      "ID": "rbxassetid://135567873205118"
+    },
+    {
+      "Name": "Throw",
+      "ID": "rbxassetid://17175898843"
+    },
+    {
+      "Name": "Wander",
+      "ID": "rbxassetid://139459908765647"
+    },
+    {
+      "Name": "KickWindup",
+      "ID": "rbxassetid://18621286126"
+    },
+    {
+      "Name": "Kick",
+      "ID": "rbxassetid://18621295210"
+    },
+    {
+      "Name": "SlamWindup",
+      "ID": "rbxassetid://18621315507"
+    },
+    {
+      "Name": "Run",
+      "ID": "rbxassetid://139459908765647"
+    },
+    {
+      "Name": "Backhand",
+      "ID": "rbxassetid://96568143408107"
+    },
+    {
+      "Name": "Summon",
+      "ID": "rbxassetid://85533717861079"
+    }
+  ],
+  "Animations/Grips": [
+    {
+      "Name": "Fists_Gripping",
+      "ID": "rbxassetid://14945196728"
+    },
+    {
+      "Name": "Fists_Gripped",
+      "ID": "rbxassetid://14945199575"
+    },
+    {
+      "Name": "Sword_Gripping",
+      "ID": "rbxassetid://15163100852"
+    },
+    {
+      "Name": "Sword_Gripped",
+      "ID": "rbxassetid://14945199575"
+    },
+    {
+      "Name": "Dagger_Gripping",
+      "ID": "rbxassetid://15163190420"
+    },
+    {
+      "Name": "Dagger_Gripped",
+      "ID": "rbxassetid://14945199575"
+    },
+    {
+      "Name": "DSKSword_Gripped",
+      "ID": "rbxassetid://15742617441"
+    },
+    {
+      "Name": "Gun_Gripping",
+      "ID": "rbxassetid://17862197954"
+    },
+    {
+      "Name": "Gun_Gripped",
+      "ID": "rbxassetid://14945199575"
+    },
+    {
+      "Name": "DSKSword_Gripping",
+      "ID": "rbxassetid://15742614741"
+    },
+    {
+      "Name": "BladeLineage_Gripped",
+      "ID": "rbxassetid://16484054568"
+    },
+    {
+      "Name": "BladeLineage_Gripping",
+      "ID": "rbxassetid://16484071634"
+    },
+    {
+      "Name": "Greatsword_Gripped",
+      "ID": "rbxassetid://14945199575"
+    },
+    {
+      "Name": "Greatsword_Gripping",
+      "ID": "rbxassetid://15302094656"
+    }
+  ],
+  "MonsterModels/Monsters/.Shyguy/Animations": [
+    {
+      "Name": "Wander",
+      "ID": "rbxassetid://87841690902551"
+    },
+    {
+      "Name": "Enraged",
+      "ID": "rbxassetid://95072106395937"
+    },
+    {
+      "Name": "CryingIdle",
+      "ID": "rbxassetid://71906718729584"
+    },
+    {
+      "Name": "Run",
+      "ID": "rbxassetid://87841690902551"
+    },
+    {
+      "Name": "Attack3",
+      "ID": "rbxassetid://97490558303471"
+    },
+    {
+      "Name": "Attack2",
+      "ID": "rbxassetid://115207674006063"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://108764737054496"
+    },
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://135051183884992"
+    }
+  ],
+  "MonsterModels/Monsters/.QueenBee/Animations": [
+    {
+      "Name": "Attack3Grab",
+      "ID": "rbxassetid://114577946389262"
+    },
+    {
+      "Name": "Attack5",
+      "ID": "rbxassetid://127574867041625"
+    },
+    {
+      "Name": "Attack4",
+      "ID": "rbxassetid://85684801619329"
+    },
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://101364652697681"
+    },
+    {
+      "Name": "Attack2",
+      "ID": "rbxassetid://113322256372588"
+    },
+    {
+      "Name": "Attack3",
+      "ID": "rbxassetid://81505220423711"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://103070397695000"
+    },
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://85671959248535"
+    }
+  ],
+  "MonsterModels/Monsters/.MrTibber/Animations": [
+    {
+      "Name": "Eat",
+      "ID": "rbxassetid://124152967862372"
+    },
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://85694349316760"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://123658678944838"
+    },
+    {
+      "Name": "Dancing",
+      "ID": "rbxassetid://90327428023488"
+    }
+  ],
+  "MonsterModels/Monsters/.BanditLeader/Animations": [
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://89564207078877"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://85811726069506"
+    },
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://73872076192857"
+    },
+    {
+      "Name": "Execute",
+      "ID": "rbxassetid://103693855618312"
+    },
+    {
+      "Name": "Attack2",
+      "ID": "rbxassetid://128743139454139"
+    },
+    {
+      "Name": "Attack4",
+      "ID": "rbxassetid://79228708129997"
+    },
+    {
+      "Name": "Attack5",
+      "ID": "rbxassetid://101852538793751"
+    },
+    {
+      "Name": "Attack3Grab",
+      "ID": "rbxassetid://85229883094514"
+    },
+    {
+      "Name": "Attack5Grab",
+      "ID": "rbxassetid://124527909163534"
+    },
+    {
+      "Name": "Attack3",
+      "ID": "rbxassetid://78215179522130"
+    }
+  ],
+  "MonsterModels/Monsters/.Puffcap/Animations": [
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://106130451853543"
+    },
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://137803735192515"
+    },
+    {
+      "Name": "Explode",
+      "ID": "rbxassetid://128968102228159"
+    },
+    {
+      "Name": "Dig",
+      "ID": "rbxassetid://109427445073694"
+    }
+  ],
+  "MonsterModels/Monsters/.GiantLurker/Animations": [
+    {
+      "Name": "Run",
+      "ID": "rbxassetid://18481858643"
+    },
+    {
+      "Name": "Lunge",
+      "ID": "rbxassetid://18485473050"
+    },
+    {
+      "Name": "Bite",
+      "ID": "rbxassetid://18486340358"
+    },
+    {
+      "Name": "Wander",
+      "ID": "rbxassetid://18481845308"
+    },
+    {
+      "Name": "Swipes",
+      "ID": "rbxassetid://18486548498"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://18481877130"
+    },
+    {
+      "Name": "Execute",
+      "ID": "rbxassetid://17891975381"
+    },
+    {
+      "Name": "Knocked",
+      "ID": "rbxassetid://18486965068"
+    },
+    {
+      "Name": "BeingCarried",
+      "ID": "rbxassetid://15311261198"
+    },
+    {
+      "Name": "OnKnock",
+      "ID": "rbxassetid://18486930577"
+    },
+    {
+      "Name": "Jog",
+      "ID": "rbxassetid://18704414753"
+    },
+    {
+      "Name": "Yell",
+      "ID": "rbxassetid://15318099038"
+    },
+    {
+      "Name": "GiantStomp",
+      "ID": "rbxassetid://114364099974709"
+    },
+    {
+      "Name": "Dig",
+      "ID": "rbxassetid://120185546765112"
+    }
+  ],
+  "MonsterModels/Monsters/.Scorpion/Animations": [
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://15707833417"
+    },
+    {
+      "Name": "Attack2",
+      "ID": "rbxassetid://18720187602"
+    },
+    {
+      "Name": "Attack3",
+      "ID": "rbxassetid://15707999846"
+    },
+    {
+      "Name": "Execute",
+      "ID": "rbxassetid://15708087385"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://15709222209"
+    },
+    {
+      "Name": "StingFollowup",
+      "ID": "rbxassetid://89760636242202"
+    },
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://15707772231"
+    }
+  ],
+  "MonsterModels/Monsters/.Crabbo/Animations": [
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://139946034237706"
+    },
+    {
+      "Name": "Attack2",
+      "ID": "rbxassetid://127662247950263"
+    },
+    {
+      "Name": "Attack3",
+      "ID": "rbxassetid://74230768554768"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://100113524486284"
+    },
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://111057202429351"
+    },
+    {
+      "Name": "Taunt",
+      "ID": "rbxassetid://128921807919589"
+    },
+    {
+      "Name": "Attack4",
+      "ID": "rbxassetid://121409417318405"
+    }
+  ],
+  "MonsterModels/Monsters/.GrandZilard/Animations": [
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://17074370945"
+    },
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://17074383132"
+    },
+    {
+      "Name": "Attack2",
+      "ID": "rbxassetid://17074392457"
+    },
+    {
+      "Name": "Attack3",
+      "ID": "rbxassetid://17074394390"
+    },
+    {
+      "Name": "Attack4",
+      "ID": "rbxassetid://17074421311"
+    },
+    {
+      "Name": "Grip",
+      "ID": "rbxassetid://17074504978"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://17074924902"
+    }
+  ],
+  "MonsterModels/Monsters/.ChompShroom/Animations": [
+    {
+      "Name": "Grip",
+      "ID": "rbxassetid://15708087385"
+    },
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://79751087169037"
+    },
+    {
+      "Name": "Attack2",
+      "ID": "rbxassetid://104489835781597"
+    },
+    {
+      "Name": "Attack3",
+      "ID": "rbxassetid://114980985598996"
+    },
+    {
+      "Name": "Attack4",
+      "ID": "rbxassetid://99495615390738"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://104727651580813"
+    },
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://105519797369635"
+    },
+    {
+      "Name": "Block",
+      "ID": "rbxassetid://123400498942638"
+    }
+  ],
+  "Animations/MonsterAnimations/.CorruptedScorpion": [
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://15707833417"
+    },
+    {
+      "Name": "Attack2",
+      "ID": "rbxassetid://15707961791"
+    },
+    {
+      "Name": "Attack3",
+      "ID": "rbxassetid://15707999846"
+    },
+    {
+      "Name": "Grip",
+      "ID": "rbxassetid://15708087385"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://15709222209"
+    },
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://15707772231"
+    }
+  ],
+  "MonsterModels/Monsters/.WaterSnake/Animations": [
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://136620852622913"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://131584386468023"
+    },
+    {
+      "Name": "Attack3",
+      "ID": "rbxassetid://97571185450842"
+    },
+    {
+      "Name": "Attack2",
+      "ID": "rbxassetid://81406408917733"
+    },
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://129602318707449"
+    },
+    {
+      "Name": "Attack4",
+      "ID": "rbxassetid://114663023487727"
+    },
+    {
+      "Name": "Attack5",
+      "ID": "rbxassetid://139249591960064"
+    }
+  ],
+  "MonsterModels/Monsters/.Sentinel/Animations": [
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://130418618526990"
+    },
+    {
+      "Name": "SlamCombo",
+      "ID": "rbxassetid://128212870843202"
+    },
+    {
+      "Name": "Run",
+      "ID": "rbxassetid://121022465150013"
+    },
+    {
+      "Name": "Wander",
+      "ID": "rbxassetid://121022465150013"
+    },
+    {
+      "Name": "Summon",
+      "ID": "rbxassetid://130418618526990"
+    },
+    {
+      "Name": "SingleSlam",
+      "ID": "rbxassetid://102639528273399"
+    },
+    {
+      "Name": "SlamComboFast",
+      "ID": "rbxassetid://128378713962470"
+    },
+    {
+      "Name": "Stomp",
+      "ID": "rbxassetid://71514371491747"
+    }
+  ],
+  "MonsterModels/Monsters/.HighThunderThrasher/Animations": [
+    {
+      "Name": "FlyingIdle",
+      "ID": "rbxassetid://112226146304191"
+    },
+    {
+      "Name": "TransitionToFly",
+      "ID": "rbxassetid://96357087154195"
+    },
+    {
+      "Name": "AerialAttack2",
+      "ID": "rbxassetid://108761804259711"
+    },
+    {
+      "Name": "Attack3",
+      "ID": "rbxassetid://125943510077027"
+    },
+    {
+      "Name": "AerialAttack1",
+      "ID": "rbxassetid://100425010962731"
+    },
+    {
+      "Name": "Run",
+      "ID": "rbxassetid://89750600573393"
+    },
+    {
+      "Name": "Attack2",
+      "ID": "rbxassetid://73726692703377"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://103743310643002"
+    },
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://114842074297708"
+    },
+    {
+      "Name": "Wander",
+      "ID": "rbxassetid://89750600573393"
+    }
+  ],
+  "Animations/Weapons/FallenM1s": [
+    {
+      "Name": "1",
+      "ID": "rbxassetid://15612126457"
+    },
+    {
+      "Name": "2",
+      "ID": "rbxassetid://15612135616"
+    },
+    {
+      "Name": "3",
+      "ID": "rbxassetid://15612142268"
+    },
+    {
+      "Name": "4",
+      "ID": "rbxassetid://15612148665"
+    },
+    {
+      "Name": "5",
+      "ID": "rbxassetid://15612174899"
+    }
+  ],
+  "MonsterModels/Monsters/.ForestGolem/Animations": [
+    {
+      "Name": "Death",
+      "ID": "rbxassetid://76412940748687"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://75663536375727"
+    },
+    {
+      "Name": "Slam",
+      "ID": "rbxassetid://97918371550703"
+    },
+    {
+      "Name": "Wander",
+      "ID": "rbxassetid://125172202040386"
+    },
+    {
+      "Name": "Stomp",
+      "ID": "rbxassetid://137512746076110"
+    },
+    {
+      "Name": "Run",
+      "ID": "rbxassetid://125172202040386"
+    },
+    {
+      "Name": "Summon",
+      "ID": "rbxassetid://85533717861079"
+    },
+    {
+      "Name": "GrabAttempt",
+      "ID": "rbxassetid://130270030149707"
+    },
+    {
+      "Name": "TreeSummon",
+      "ID": "rbxassetid://76412940748687"
+    },
+    {
+      "Name": "Swipe",
+      "ID": "rbxassetid://95290956326155"
+    },
+    {
+      "Name": "Fistdown",
+      "ID": "rbxassetid://109731988703228"
+    },
+    {
+      "Name": "Awaken",
+      "ID": "rbxassetid://89379376128002"
+    },
+    {
+      "Name": "Sleeping",
+      "ID": "rbxassetid://124951880927457"
+    },
+    {
+      "Name": "GrabFail",
+      "ID": "rbxassetid://82018128565374"
+    }
+  ],
+  "MonsterModels/Monsters/.WitchDoll/Animations": [
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://111187156801351"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://102420706163227"
+    },
+    {
+      "Name": "LightAttacks",
+      "ID": "rbxassetid://102755853687749"
+    },
+    {
+      "Name": "Sprint",
+      "ID": "rbxassetid://140607830043212"
+    },
+    {
+      "Name": "BlockTemplate",
+      "ID": "rbxassetid://14609401162"
+    },
+    {
+      "Name": "Execute",
+      "ID": "rbxassetid://103693855618312"
+    },
+    {
+      "Name": "Swim",
+      "ID": "rbxassetid://15144523105"
+    },
+    {
+      "Name": "Pride",
+      "ID": "rbxassetid://134574694739203"
+    },
+    {
+      "Name": "SmartLeaning",
+      "ID": "rbxassetid://132258548910336"
+    }
+  ],
+  "Animations/Weapons/SickleM1s": [
+    {
+      "Name": "1",
+      "ID": "rbxassetid://17374301392"
+    },
+    {
+      "Name": "2",
+      "ID": "rbxassetid://17374321531"
+    },
+    {
+      "Name": "3",
+      "ID": "rbxassetid://17374331848"
+    },
+    {
+      "Name": "4",
+      "ID": "rbxassetid://17374344331"
+    },
+    {
+      "Name": "5",
+      "ID": "rbxassetid://17374349055"
+    }
+  ],
+  "Animations/Weapons/StaffM1s": [
+    {
+      "Name": "1",
+      "ID": "rbxassetid://18656426180"
+    },
+    {
+      "Name": "2",
+      "ID": "rbxassetid://18656428202"
+    },
+    {
+      "Name": "3",
+      "ID": "rbxassetid://18656430451"
+    },
+    {
+      "Name": "4",
+      "ID": "rbxassetid://18656433197"
+    },
+    {
+      "Name": "5",
+      "ID": "rbxassetid://18656435861"
+    }
+  ],
+  "Animations/DamageReactions": [
+    {
+      "Name": "Hit4",
+      "ID": "rbxassetid://14609391740"
+    },
+    {
+      "Name": "Hit2",
+      "ID": "rbxassetid://14609385453"
+    },
+    {
+      "Name": "Hit3",
+      "ID": "rbxassetid://14609388993"
+    },
+    {
+      "Name": "Hit1",
+      "ID": "rbxassetid://14609382276"
+    }
+  ],
+  "Animations/Weapons/GreatswordM1s": [
+    {
+      "Name": "1",
+      "ID": "rbxassetid://17291366295"
+    },
+    {
+      "Name": "2",
+      "ID": "rbxassetid://17291378825"
+    },
+    {
+      "Name": "3",
+      "ID": "rbxassetid://17291389931"
+    },
+    {
+      "Name": "4",
+      "ID": "rbxassetid://17291400354"
+    }
+  ],
+  "Animations/Weapons/HeavyM1s": [
+    {
+      "Name": "1",
+      "ID": "rbxassetid://18656426180"
+    },
+    {
+      "Name": "2",
+      "ID": "rbxassetid://88533879433859"
+    },
+    {
+      "Name": "3",
+      "ID": "rbxassetid://89403995782105"
+    },
+    {
+      "Name": "4",
+      "ID": "rbxassetid://108255654267852"
+    },
+    {
+      "Name": "5",
+      "ID": "rbxassetid://18656435861"
+    }
+  ],
+  "Animations/Weapons/HeavyScytheM1s": [
+    {
+      "Name": "1",
+      "ID": "rbxassetid://17334719886"
+    },
+    {
+      "Name": "2",
+      "ID": "rbxassetid://17334724115"
+    },
+    {
+      "Name": "3",
+      "ID": "rbxassetid://17334725521"
+    },
+    {
+      "Name": "4",
+      "ID": "rbxassetid://17334727403"
+    },
+    {
+      "Name": "5",
+      "ID": "rbxassetid://17334729335"
+    }
+  ],
+  "Animations/Weapons": [
+    {
+      "Name": "FistCrit",
+      "ID": "rbxassetid://105856422274904"
+    },
+    {
+      "Name": "SwordCrit",
+      "ID": "rbxassetid://102524377256230"
+    },
+    {
+      "Name": "GreatswordCrit",
+      "ID": "rbxassetid://74594197720377"
+    },
+    {
+      "Name": "DaggerCrit",
+      "ID": "rbxassetid://86935777000764"
+    },
+    {
+      "Name": "SpearCrit",
+      "ID": "rbxassetid://75260733157733"
+    },
+    {
+      "Name": "FallenCrit",
+      "ID": "rbxassetid://77519622198668"
+    },
+    {
+      "Name": "RapierCrit",
+      "ID": "rbxassetid://15637435615"
+    },
+    {
+      "Name": "LurkerbladeCrit",
+      "ID": "rbxassetid://16114562042"
+    },
+    {
+      "Name": "GunCrit",
+      "ID": "rbxassetid://16250963499"
+    },
+    {
+      "Name": "BladeLineageCrit",
+      "ID": "rbxassetid://16484146109"
+    },
+    {
+      "Name": "NajavaCrit",
+      "ID": "rbxassetid://118548216465460"
+    },
+    {
+      "Name": "DaemonCrit",
+      "ID": "rbxassetid://15637435615"
+    },
+    {
+      "Name": "HammerCrit",
+      "ID": "rbxassetid://17490712105"
+    },
+    {
+      "Name": "DaemoncleaveCrit",
+      "ID": "rbxassetid://17501482849"
+    },
+    {
+      "Name": "VoidHandsCrit",
+      "ID": "rbxassetid://17506764973"
+    },
+    {
+      "Name": "SwordfishCrit",
+      "ID": "rbxassetid://17664845574"
+    },
+    {
+      "Name": "BrawlerWrapsAerial",
+      "ID": "rbxassetid://84445125311629"
+    },
+    {
+      "Name": "AstralCrit",
+      "ID": "rbxassetid://18571235329"
+    },
+    {
+      "Name": "Riptide",
+      "ID": "rbxassetid://18587928100"
+    },
+    {
+      "Name": "VenomCrit",
+      "ID": "rbxassetid://18589059129"
+    },
+    {
+      "Name": "StaffCrit",
+      "ID": "rbxassetid://18656421028"
+    },
+    {
+      "Name": "OdachiCrit",
+      "ID": "rbxassetid://18727103133"
+    },
+    {
+      "Name": "LuminiteChakramCrit",
+      "ID": "rbxassetid://18733254573"
+    },
+    {
+      "Name": "LuminiteSwordCrit",
+      "ID": "rbxassetid://18733716507"
+    },
+    {
+      "Name": "LuminiteSpearCrit",
+      "ID": "rbxassetid://18733811671"
+    },
+    {
+      "Name": "LuminiteSickleCrit",
+      "ID": "rbxassetid://18733885541"
+    },
+    {
+      "Name": "ParasiteCrit",
+      "ID": "rbxassetid://18786908081"
+    },
+    {
+      "Name": "KanaboCrit",
+      "ID": "rbxassetid://18993239016"
+    },
+    {
+      "Name": "AntlionTuskCrit",
+      "ID": "rbxassetid://18758342989"
+    },
+    {
+      "Name": "TantoCrit",
+      "ID": "rbxassetid://93719288787464"
+    },
+    {
+      "Name": "MeowCrit",
+      "ID": "rbxassetid://135345396790485"
+    },
+    {
+      "Name": "FlameGrandCrit",
+      "ID": "rbxassetid://139959547066355"
+    },
+    {
+      "Name": "IceGrandCrit",
+      "ID": "rbxassetid://134260037083393"
+    },
+    {
+      "Name": "WhiteFireGrandCrit",
+      "ID": "rbxassetid://135508801777002"
+    },
+    {
+      "Name": "WhiteFireGrandCritWindup",
+      "ID": "rbxassetid://83040199789543"
+    },
+    {
+      "Name": "LightningGrandCrit",
+      "ID": "rbxassetid://120427081421021"
+    },
+    {
+      "Name": "IcebreakerCrit",
+      "ID": "rbxassetid://104262029741344"
+    },
+    {
+      "Name": "AmberwoodCrit",
+      "ID": "rbxassetid://126318962224181"
+    },
+    {
+      "Name": "NagiCrit",
+      "ID": "rbxassetid://91364769981799"
+    },
+    {
+      "Name": "KatanaCrit",
+      "ID": "rbxassetid://101732202764402"
+    },
+    {
+      "Name": "AxeKick",
+      "ID": "rbxassetid://98732812818376"
+    },
+    {
+      "Name": "NewRapierCrit",
+      "ID": "rbxassetid://82273513908567"
+    },
+    {
+      "Name": "AntumbraCrit",
+      "ID": "rbxassetid://72950169822179"
+    },
+    {
+      "Name": "CrescentCrit2",
+      "ID": "rbxassetid://127749591466158"
+    },
+    {
+      "Name": "CrescentCrit3",
+      "ID": "rbxassetid://75605485035029"
+    },
+    {
+      "Name": "CrescentCrit1",
+      "ID": "rbxassetid://114494927785834"
+    },
+    {
+      "Name": "ReverseGunCrit",
+      "ID": "rbxassetid://140483906487802"
+    },
+    {
+      "Name": "HalberdCritIdle",
+      "ID": "rbxassetid://99821989108959"
+    },
+    {
+      "Name": "HalberdCritAir",
+      "ID": "rbxassetid://129255491364162"
+    },
+    {
+      "Name": "HalberdCritDash",
+      "ID": "rbxassetid://96206601484189"
+    },
+    {
+      "Name": "MaulerCrit",
+      "ID": "rbxassetid://72230646872221"
+    },
+    {
+      "Name": "NagamakiCrit",
+      "ID": "rbxassetid://119079823045468"
+    },
+    {
+      "Name": "NagamakiCritAir",
+      "ID": "rbxassetid://85079614462799"
+    },
+    {
+      "Name": "StingerGroundedCrit",
+      "ID": "rbxassetid://84129802389184"
+    },
+    {
+      "Name": "StingerAerialCrit",
+      "ID": "rbxassetid://70394723558509"
+    },
+    {
+      "Name": "CarverCrit",
+      "ID": "rbxassetid://115685676305734"
+    },
+    {
+      "Name": "FrostmourneCrit",
+      "ID": "rbxassetid://90307113060785"
+    },
+    {
+      "Name": "DoryCrit",
+      "ID": "rbxassetid://131318200249015"
+    },
+    {
+      "Name": "GlaiveCrit",
+      "ID": "rbxassetid://101669072465351"
+    },
+    {
+      "Name": "CactoCrit",
+      "ID": "rbxassetid://122273292879646"
+    },
+    {
+      "Name": "SerrateCrit",
+      "ID": "rbxassetid://109444479706412"
+    },
+    {
+      "Name": "ZweiCrit",
+      "ID": "rbxassetid://76630447286096"
+    },
+    {
+      "Name": "SylvanCrit",
+      "ID": "rbxassetid://70934292673690"
+    },
+    {
+      "Name": "FlaperonCrit",
+      "ID": "rbxassetid://72545363973206"
+    },
+    {
+      "Name": "StarGauntletCrit",
+      "ID": "rbxassetid://113668779156479"
+    },
+    {
+      "Name": "CutlassCrit",
+      "ID": "rbxassetid://132776990960764"
+    },
+    {
+      "Name": "CutlassCritVictim",
+      "ID": "rbxassetid://126505382663119"
+    },
+    {
+      "Name": "ChrysusCrit",
+      "ID": "rbxassetid://84874847958960"
+    },
+    {
+      "Name": "SpireCrit",
+      "ID": "rbxassetid://121382120153859"
+    },
+    {
+      "Name": "SpireCritFollowup",
+      "ID": "rbxassetid://133200018336674"
+    },
+    {
+      "Name": "SilverCrit",
+      "ID": "rbxassetid://117592153590988"
+    },
+    {
+      "Name": "KickboxGroundCrit",
+      "ID": "rbxassetid://87986567147070"
+    },
+    {
+      "Name": "CarrotforkCrit",
+      "ID": "rbxassetid://131547290793099"
+    },
+    {
+      "Name": "ZarboCrit",
+      "ID": "rbxassetid://131795771132275"
+    },
+    {
+      "Name": "MaceCrit",
+      "ID": "rbxassetid://108447059998856"
+    },
+    {
+      "Name": "TepozCrit",
+      "ID": "rbxassetid://81385376293446"
+    },
+    {
+      "Name": "GnackCrit",
+      "ID": "rbxassetid://82246383115792"
+    },
+    {
+      "Name": "BoneClubCrit",
+      "ID": "rbxassetid://80864520193681"
+    },
+    {
+      "Name": "BoneClubCritRecast",
+      "ID": "rbxassetid://124051028945947"
+    },
+    {
+      "Name": "BidentCrit",
+      "ID": "rbxassetid://109302859547259"
+    },
+    {
+      "Name": "NectarCrit",
+      "ID": "rbxassetid://108929759585368"
+    },
+    {
+      "Name": "AncientChampion",
+      "ID": "rbxassetid://131798624745259"
+    },
+    {
+      "Name": "AncientChampion_Aerial",
+      "ID": "rbxassetid://102588582342188"
+    }
+  ],
+  "MonsterModels/Monsters/.Redead/Animations": [
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://91160641880574"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://122476090356374"
+    },
+    {
+      "Name": "Attack3",
+      "ID": "rbxassetid://90985560029020"
+    },
+    {
+      "Name": "Attack2",
+      "ID": "rbxassetid://103912313243985"
+    },
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://129910360887520"
+    },
+    {
+      "Name": "VineSwing",
+      "ID": "rbxassetid://98149190868773"
+    },
+    {
+      "Name": "Attack4",
+      "ID": "rbxassetid://104896008656872"
+    },
+    {
+      "Name": "Attack5",
+      "ID": "rbxassetid://107458995682912"
+    }
+  ],
+  "Animations/Weapons/Blsilencem1s": [
+    {
+      "Name": "1",
+      "ID": "rbxassetid://17603809176"
+    },
+    {
+      "Name": "2",
+      "ID": "rbxassetid://17603811382"
+    },
+    {
+      "Name": "3",
+      "ID": "rbxassetid://17603812657"
+    },
+    {
+      "Name": "4",
+      "ID": "rbxassetid://17603814440"
+    },
+    {
+      "Name": "5",
+      "ID": "rbxassetid://17603816589"
+    }
+  ],
+  "MonsterModels/Monsters/.ProwlerNew/Animations": [
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://103407793586815"
+    },
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://98963178868884"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://114640438267154"
+    },
+    {
+      "Name": "Attack2",
+      "ID": "rbxassetid://85007745284125"
+    },
+    {
+      "Name": "Attack3",
+      "ID": "rbxassetid://101860477697661"
+    },
+    {
+      "Name": "Attack4",
+      "ID": "rbxassetid://79175116831632"
+    },
+    {
+      "Name": "Howl",
+      "ID": "rbxassetid://96125421481315"
+    },
+    {
+      "Name": "Running",
+      "ID": "rbxassetid://133420612397372"
+    }
+  ],
+  "Animations/cultist": [
+    {
+      "Name": "otherworldlygraspstun",
+      "ID": "rbxassetid://105870629179986"
+    }
+  ],
+  "Animations/MonsterAnimations/.Lurker/DamageReactions": [
+    {
+      "Name": "Stun1",
+      "ID": "rbxassetid://16071402436"
+    },
+    {
+      "Name": "Stun3",
+      "ID": "rbxassetid://16071420439"
+    },
+    {
+      "Name": "Stun2",
+      "ID": "rbxassetid://16071409465"
+    }
+  ],
+  "MonsterModels/Monsters/.SkeletonNewRig/Animations": [
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://18510302769"
+    },
+    {
+      "Name": "Slap1",
+      "ID": "rbxassetid://18509781556"
+    },
+    {
+      "Name": "Slap2",
+      "ID": "rbxassetid://18509783631"
+    },
+    {
+      "Name": "Barrage",
+      "ID": "rbxassetid://18509786236"
+    },
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://18510300296"
+    },
+    {
+      "Name": "Break",
+      "ID": "rbxassetid://18510346108"
+    }
+  ],
+  "Animations/Weapons/KozuExcalibur": [
+    {
+      "Name": "2",
+      "ID": "rbxassetid://18503558847"
+    },
+    {
+      "Name": "3",
+      "ID": "rbxassetid://18503566225"
+    },
+    {
+      "Name": "4",
+      "ID": "rbxassetid://18503571437"
+    },
+    {
+      "Name": "5",
+      "ID": "rbxassetid://18503576169"
+    },
+    {
+      "Name": "1",
+      "ID": "rbxassetid://18503554488"
+    }
+  ],
+  "Animations/Weapons/10HitCombo": [
+    {
+      "Name": "10",
+      "ID": "rbxassetid://17196540697"
+    },
+    {
+      "Name": "2",
+      "ID": "rbxassetid://17195931932"
+    },
+    {
+      "Name": "3",
+      "ID": "rbxassetid://17196036831"
+    },
+    {
+      "Name": "4",
+      "ID": "rbxassetid://17196078447"
+    },
+    {
+      "Name": "5",
+      "ID": "rbxassetid://17196164791"
+    },
+    {
+      "Name": "1",
+      "ID": "rbxassetid://17195937868"
+    },
+    {
+      "Name": "6",
+      "ID": "rbxassetid://17196184432"
+    },
+    {
+      "Name": "7",
+      "ID": "rbxassetid://17196294302"
+    },
+    {
+      "Name": "8",
+      "ID": "rbxassetid://17196333439"
+    },
+    {
+      "Name": "9",
+      "ID": "rbxassetid://17196362989"
+    }
+  ],
+  "MonsterModels/Monsters/.Sedimin/Animations": [
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://111187156801351"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://102420706163227"
+    },
+    {
+      "Name": "LightAttacks",
+      "ID": "rbxassetid://102755853687749"
+    },
+    {
+      "Name": "ArmTear",
+      "ID": "rbxassetid://95537103507916"
+    },
+    {
+      "Name": "Headbutt",
+      "ID": "rbxassetid://114137770754430"
+    }
+  ],
+  "MonsterModels/Monsters/.Bunny/Animations": [
+    {
+      "Name": "Eat",
+      "ID": "rbxassetid://124152967862372"
+    },
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://85694349316760"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://123658678944838"
+    },
+    {
+      "Name": "Dancing",
+      "ID": "rbxassetid://90327428023488"
+    }
+  ],
+  "MonsterModels/Monsters/.IceElemental/Animations": [
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://88000221492545"
+    },
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://70979890317033"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://88000221492545"
+    },
+    {
+      "Name": "Attack2",
+      "ID": "rbxassetid://86363832986179"
+    },
+    {
+      "Name": "Attack3",
+      "ID": "rbxassetid://119681706341450"
+    },
+    {
+      "Name": "Attack4",
+      "ID": "rbxassetid://123785379666853"
+    }
+  ],
+  "Animations/Weapons/SwordM1s": [
+    {
+      "Name": "1",
+      "ID": "rbxassetid://16104495861"
+    },
+    {
+      "Name": "2",
+      "ID": "rbxassetid://16104501275"
+    },
+    {
+      "Name": "3",
+      "ID": "rbxassetid://16104502873"
+    },
+    {
+      "Name": "4",
+      "ID": "rbxassetid://16104505072"
+    },
+    {
+      "Name": "5",
+      "ID": "rbxassetid://16104506967"
+    }
+  ],
+  "MonsterModels/Monsters/.Antlion/Animations": [
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://18690410181"
+    },
+    {
+      "Name": "Barrage",
+      "ID": "rbxassetid://18690401928"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://18690406848"
+    },
+    {
+      "Name": "Sting",
+      "ID": "rbxassetid://18690427712"
+    }
+  ],
+  "MonsterModels/Monsters/.Chrysus/Animations": [
+    {
+      "Name": "SpearAttack1",
+      "ID": "rbxassetid://82395686444309"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://112888158773871"
+    },
+    {
+      "Name": "CrownThrow",
+      "ID": "rbxassetid://108821742485635"
+    },
+    {
+      "Name": "Stomp",
+      "ID": "rbxassetid://137198955753711"
+    },
+    {
+      "Name": "SpearAttack3",
+      "ID": "rbxassetid://77009601436043"
+    },
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://135706358991887"
+    },
+    {
+      "Name": "SpearAttack2",
+      "ID": "rbxassetid://75110042734749"
+    },
+    {
+      "Name": "Flying",
+      "ID": "rbxassetid://93177464311185"
+    },
+    {
+      "Name": "Dive",
+      "ID": "rbxassetid://81991913799418"
+    }
+  ],
+  "Animations/Weapons/SpearM1s": [
+    {
+      "Name": "1",
+      "ID": "rbxassetid://15092083009"
+    },
+    {
+      "Name": "2",
+      "ID": "rbxassetid://15092098187"
+    },
+    {
+      "Name": "3",
+      "ID": "rbxassetid://15092103618"
+    },
+    {
+      "Name": "4",
+      "ID": "rbxassetid://15092108211"
+    },
+    {
+      "Name": "5",
+      "ID": "rbxassetid://15092110495"
+    }
+  ],
+  "Animations/first_mate": [
+    {
+      "Name": "FoulPlay",
+      "ID": "rbxassetid://119286636519419"
+    },
+    {
+      "Name": "Slide",
+      "ID": "rbxassetid://107264223914421"
+    },
+    {
+      "Name": "SlideKick",
+      "ID": "rbxassetid://104354569837348"
+    }
+  ],
+  "Animations/NPCAnimations": [
+    {
+      "Name": "Test",
+      "ID": "rbxassetid://92897049950059"
+    },
+    {
+      "Name": "Wave",
+      "ID": "rbxassetid://128777973"
+    },
+    {
+      "Name": "Point",
+      "ID": "rbxassetid://128853357"
+    },
+    {
+      "Name": "Cheer",
+      "ID": "rbxassetid://129423030"
+    },
+    {
+      "Name": "Laugh",
+      "ID": "rbxassetid://129423131"
+    },
+    {
+      "Name": "ShakeHead",
+      "ID": "rbxassetid://115880060433574"
+    },
+    {
+      "Name": "Nod",
+      "ID": "rbxassetid://132734216248522"
+    }
+  ],
+  "MonsterModels/Monsters/.GiantLurker/Animations/DamageReactions": [
+    {
+      "Name": "Stun1",
+      "ID": "rbxassetid://16071402436"
+    },
+    {
+      "Name": "Stun3",
+      "ID": "rbxassetid://16071420439"
+    },
+    {
+      "Name": "Stun2",
+      "ID": "rbxassetid://16071409465"
+    }
+  ],
+  "MonsterModels/Monsters/.Bee/Animations": [
+    {
+      "Name": "Attack4",
+      "ID": "rbxassetid://89865683426347"
+    },
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://139336990061503"
+    },
+    {
+      "Name": "Attack3",
+      "ID": "rbxassetid://134711022928944"
+    },
+    {
+      "Name": "Attack2",
+      "ID": "rbxassetid://114021793755335"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://89220689461714"
+    }
+  ],
+  "Animations/MonsterAnimations/.Lurker": [
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://15257636123"
+    },
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://15279951482"
+    },
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://15353367645"
+    },
+    {
+      "Name": "Attack3",
+      "ID": "rbxassetid://15353390914"
+    },
+    {
+      "Name": "Attack2",
+      "ID": "rbxassetid://15297690177"
+    },
+    {
+      "Name": "Attack4",
+      "ID": "rbxassetid://15353429082"
+    },
+    {
+      "Name": "Eat Player",
+      "ID": "rbxassetid://15300655347"
+    },
+    {
+      "Name": "Player Eaten",
+      "ID": "rbxassetid://15300696404"
+    },
+    {
+      "Name": "BeingGripped",
+      "ID": "rbxassetid://15309667947"
+    },
+    {
+      "Name": "BeingCarried",
+      "ID": "rbxassetid://15311261198"
+    },
+    {
+      "Name": "Knocked",
+      "ID": "rbxassetid://15309667947"
+    },
+    {
+      "Name": "Aggro",
+      "ID": "rbxassetid://15318099038"
+    },
+    {
+      "Name": "SpawnAnimation",
+      "ID": "rbxassetid://16078420241"
+    }
+  ],
+  "Animations/Weapons/CrescentM1s": [
+    {
+      "Name": "1",
+      "ID": "rbxassetid://128179296496113"
+    },
+    {
+      "Name": "2",
+      "ID": "rbxassetid://118830617012373"
+    },
+    {
+      "Name": "3",
+      "ID": "rbxassetid://112925871689953"
+    },
+    {
+      "Name": "4",
+      "ID": "rbxassetid://128345984306320"
+    },
+    {
+      "Name": "5",
+      "ID": "rbxassetid://118604006358812"
+    }
+  ],
+  "Animations/Weapons/DaggerM1s": [
+    {
+      "Name": "1",
+      "ID": "rbxassetid://15082793303"
+    },
+    {
+      "Name": "2",
+      "ID": "rbxassetid://15082820263"
+    },
+    {
+      "Name": "3",
+      "ID": "rbxassetid://15082830304"
+    },
+    {
+      "Name": "4",
+      "ID": "rbxassetid://15082839975"
+    },
+    {
+      "Name": "5",
+      "ID": "rbxassetid://15082848843"
+    }
+  ],
+  "Animations/daemon_proselyte": [
+    {
+      "Name": "WraithflameSpin",
+      "ID": "rbxassetid://17482227556"
+    },
+    {
+      "Name": "Hammerfall",
+      "ID": "rbxassetid://17494238195"
+    },
+    {
+      "Name": "Emberbreath",
+      "ID": "rbxassetid://17502854270"
+    }
+  ],
+  "Animations/priest": [
+    {
+      "Name": "angelicmaneuver",
+      "ID": "rbxassetid://17395239494"
+    },
+    {
+      "Name": "truefaith",
+      "ID": "rbxassetid://17395220812"
+    }
+  ],
+  "MonsterModels/Monsters/.GiantLard/Animations": [
+    {
+      "Name": "Attack3",
+      "ID": "rbxassetid://129065041585669"
+    },
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://107656767187535"
+    },
+    {
+      "Name": "Attack2",
+      "ID": "rbxassetid://115167687493349"
+    },
+    {
+      "Name": "Attack4",
+      "ID": "rbxassetid://111037092611514"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://77986862543099"
+    },
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://97242932244959"
+    }
+  ],
+  "Animations/world_sage": [
+    {
+      "Name": "terraforest",
+      "ID": "rbxassetid://17440304284"
+    },
+    {
+      "Name": "spiritball",
+      "ID": "rbxassetid://17289804664"
+    },
+    {
+      "Name": "terradesert",
+      "ID": "rbxassetid://17419757062"
+    },
+    {
+      "Name": "terraswamp",
+      "ID": "rbxassetid://17430926872"
+    },
+    {
+      "Name": "terrabeachloop",
+      "ID": "rbxassetid://17412126556"
+    },
+    {
+      "Name": "terrasky",
+      "ID": "rbxassetid://17289706212"
+    },
+    {
+      "Name": "terratundra",
+      "ID": "rbxassetid://17289761709"
+    },
+    {
+      "Name": "terravolcano",
+      "ID": "rbxassetid://17440605063"
+    },
+    {
+      "Name": "terrabeachstartup",
+      "ID": "rbxassetid://17412168469"
+    }
+  ],
+  "Animations/MonsterAnimations/.Cacto": [
+    {
+      "Name": "NeedleCharge",
+      "ID": "rbxassetid://17015134465"
+    },
+    {
+      "Name": "Grip",
+      "ID": "rbxassetid://15851490151"
+    },
+    {
+      "Name": "Sweep",
+      "ID": "rbxassetid://17015027213"
+    },
+    {
+      "Name": "NeedleLoop",
+      "ID": "rbxassetid://17015083245"
+    },
+    {
+      "Name": "FormCactus",
+      "ID": "rbxassetid://17016128979"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://85173844296261"
+    },
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://96834212777290"
+    }
+  ],
+  "Animations/Weapons/ESwordM1s": [
+    {
+      "Name": "1",
+      "ID": "rbxassetid://16283164479"
+    },
+    {
+      "Name": "2",
+      "ID": "rbxassetid://16283166706"
+    },
+    {
+      "Name": "3",
+      "ID": "rbxassetid://16283168322"
+    },
+    {
+      "Name": "4",
+      "ID": "rbxassetid://16283169295"
+    },
+    {
+      "Name": "5",
+      "ID": "rbxassetid://16283170566"
+    }
+  ],
+  "MonsterModels/Monsters/.HumanoidTemplate/Animations": [
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://180426354"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://180435571"
+    },
+    {
+      "Name": "LightAttacks",
+      "ID": "rbxassetid://102755853687749"
+    },
+    {
+      "Name": "Sprint",
+      "ID": "rbxassetid://140607830043212"
+    },
+    {
+      "Name": "BlockTemplate",
+      "ID": "rbxassetid://14609401162"
+    },
+    {
+      "Name": "Execute",
+      "ID": "rbxassetid://103693855618312"
+    },
+    {
+      "Name": "Swim",
+      "ID": "rbxassetid://15144523105"
+    },
+    {
+      "Name": "Pride",
+      "ID": "rbxassetid://134574694739203"
+    },
+    {
+      "Name": "SmartLeaning",
+      "ID": "rbxassetid://132258548910336"
+    },
+    {
+      "Name": "Chill",
+      "ID": "rbxassetid://108649629583861"
+    }
+  ],
+  "Animations/OdachiWaterAttack": [
+    {
+      "Name": "Windup",
+      "ID": "rbxassetid://16606448296"
+    }
+  ],
+  "Animations/Weapons/GunM1s": [
+    {
+      "Name": "1",
+      "ID": "rbxassetid://16250719541"
+    },
+    {
+      "Name": "2",
+      "ID": "rbxassetid://16250722797"
+    },
+    {
+      "Name": "3",
+      "ID": "rbxassetid://16250725564"
+    },
+    {
+      "Name": "4",
+      "ID": "rbxassetid://16250728552"
+    },
+    {
+      "Name": "5",
+      "ID": "rbxassetid://16250731191"
+    }
+  ],
+  "Animations/BLAwakening": [
+    {
+      "Name": "BLAwakening ( old )",
+      "ID": "rbxassetid://16495928474"
+    },
+    {
+      "Name": "BLAwakening ( new )",
+      "ID": "rbxassetid://17593245877"
+    },
+    {
+      "Name": "BLAwakening ( Gojo )",
+      "ID": "rbxassetid://17324901416"
+    }
+  ],
+  "MonsterModels/Monsters/.Suonetar/Animations": [
+    {
+      "Name": "Scream",
+      "ID": "rbxassetid://124228302117707"
+    },
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://128171452800881"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://139001626675060"
+    },
+    {
+      "Name": "Swing2",
+      "ID": "rbxassetid://107813134712109"
+    },
+    {
+      "Name": "Swing1",
+      "ID": "rbxassetid://106139026612994"
+    },
+    {
+      "Name": "Slice",
+      "ID": "rbxassetid://99008155777577"
+    }
+  ],
+  "Animations/Weapons/KickboxingM1s": [
+    {
+      "Name": "1",
+      "ID": "rbxassetid://114320406019437"
+    },
+    {
+      "Name": "2",
+      "ID": "rbxassetid://97712703384779"
+    },
+    {
+      "Name": "3",
+      "ID": "rbxassetid://98533201761361"
+    },
+    {
+      "Name": "4",
+      "ID": "rbxassetid://83581595367397"
+    },
+    {
+      "Name": "5",
+      "ID": "rbxassetid://121054354269963"
+    }
+  ],
+  "MonsterModels/Monsters/.AntlionKing/Animations": [
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://71451549365375"
+    },
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://98742444412897"
+    },
+    {
+      "Name": "Attack2",
+      "ID": "rbxassetid://138079334161229"
+    },
+    {
+      "Name": "Attack3",
+      "ID": "rbxassetid://105090109110994"
+    },
+    {
+      "Name": "Attack4",
+      "ID": "rbxassetid://95672388785043"
+    },
+    {
+      "Name": "Attack5",
+      "ID": "rbxassetid://93417753452639"
+    },
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://81836149673074"
+    }
+  ],
+  "MonsterModels/Monsters/.Sorimin/Animations": [
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://111187156801351"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://102420706163227"
+    },
+    {
+      "Name": "LightAttacks",
+      "ID": "rbxassetid://104741608109816"
+    },
+    {
+      "Name": "StabAttempt",
+      "ID": "rbxassetid://133520531890758"
+    },
+    {
+      "Name": "Slam",
+      "ID": "rbxassetid://129192922817954"
+    },
+    {
+      "Name": "StabSuccess",
+      "ID": "rbxassetid://105741558971031"
+    }
+  ],
+  "Animations/Weapons/SilverM1s2": [
+    {
+      "Name": "1",
+      "ID": "rbxassetid://74000568389837"
+    },
+    {
+      "Name": "2",
+      "ID": "rbxassetid://93357000418598"
+    },
+    {
+      "Name": "3",
+      "ID": "rbxassetid://103531571910699"
+    },
+    {
+      "Name": "4",
+      "ID": "rbxassetid://85288844525366"
+    }
+  ],
+  "Animations/MonsterAnimations/.Coroblob": [
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://16234396552"
+    },
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://16234376583"
+    },
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://16234691404"
+    },
+    {
+      "Name": "Attack2",
+      "ID": "rbxassetid://16248256511"
+    },
+    {
+      "Name": "Grab",
+      "ID": "rbxassetid://16248433515"
+    },
+    {
+      "Name": "GrabSlam",
+      "ID": "rbxassetid://16248921964"
+    }
+  ],
+  "Animations/MonsterAnimations/.Zilard": [
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://17074370945"
+    },
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://17074383132"
+    },
+    {
+      "Name": "Attack2",
+      "ID": "rbxassetid://17074392457"
+    },
+    {
+      "Name": "Attack3",
+      "ID": "rbxassetid://17074394390"
+    },
+    {
+      "Name": "Attack4",
+      "ID": "rbxassetid://17074421311"
+    },
+    {
+      "Name": "Grip",
+      "ID": "rbxassetid://17074504978"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://17074924902"
+    }
+  ],
+  "Animations/Weapons/HammerM1s": [
+    {
+      "Name": "1",
+      "ID": "rbxassetid://17486960297"
+    },
+    {
+      "Name": "2",
+      "ID": "rbxassetid://17486963369"
+    },
+    {
+      "Name": "3",
+      "ID": "rbxassetid://17486969645"
+    },
+    {
+      "Name": "4",
+      "ID": "rbxassetid://17486972006"
+    }
+  ],
+  "MonsterModels/Monsters/.Lurker/Animations/DamageReactions": [
+    {
+      "Name": "Stun1",
+      "ID": "rbxassetid://16071402436"
+    },
+    {
+      "Name": "Stun3",
+      "ID": "rbxassetid://16071420439"
+    },
+    {
+      "Name": "Stun2",
+      "ID": "rbxassetid://16071409465"
+    }
+  ],
+  "Animations/Weapons/SpireM1s": [
+    {
+      "Name": "1",
+      "ID": "rbxassetid://105465769634440"
+    },
+    {
+      "Name": "2",
+      "ID": "rbxassetid://127798160310518"
+    },
+    {
+      "Name": "3",
+      "ID": "rbxassetid://80849537186227"
+    },
+    {
+      "Name": "4",
+      "ID": "rbxassetid://129622693779789"
+    }
+  ],
+  "MonsterModels/Monsters/.IceGolem/Animations": [
+    {
+      "Name": "Backhand",
+      "ID": "rbxassetid://96568143408107"
+    },
+    {
+      "Name": "Death",
+      "ID": "rbxassetid://17165559836"
+    },
+    {
+      "Name": "GrabAttempt",
+      "ID": "rbxassetid://17175893320"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://17165562283"
+    },
+    {
+      "Name": "Slam",
+      "ID": "rbxassetid://17165578097"
+    },
+    {
+      "Name": "SlamIdle",
+      "ID": "rbxassetid://17165570483"
+    },
+    {
+      "Name": "Stomp",
+      "ID": "rbxassetid://17165878374"
+    },
+    {
+      "Name": "Throw",
+      "ID": "rbxassetid://17175898843"
+    },
+    {
+      "Name": "KickWindup",
+      "ID": "rbxassetid://18621286126"
+    },
+    {
+      "Name": "Kick",
+      "ID": "rbxassetid://18621295210"
+    },
+    {
+      "Name": "SlamWindup",
+      "ID": "rbxassetid://18621315507"
+    },
+    {
+      "Name": "Summon",
+      "ID": "rbxassetid://82569576200247"
+    },
+    {
+      "Name": "Swing",
+      "ID": "rbxassetid://135567873205118"
+    },
+    {
+      "Name": "Wander",
+      "ID": "rbxassetid://139459908765647"
+    },
+    {
+      "Name": "Run",
+      "ID": "rbxassetid://139459908765647"
+    }
+  ],
+  "Animations/MonsterAnimations/.Scorpion": [
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://15707833417"
+    },
+    {
+      "Name": "Attack2",
+      "ID": "rbxassetid://15707961791"
+    },
+    {
+      "Name": "Attack3",
+      "ID": "rbxassetid://15707999846"
+    },
+    {
+      "Name": "Grip",
+      "ID": "rbxassetid://15708087385"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://15709222209"
+    },
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://15707772231"
+    }
+  ],
+  "MonsterModels/Monsters/.Lard/Animations": [
+    {
+      "Name": "Attack3",
+      "ID": "rbxassetid://129065041585669"
+    },
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://107656767187535"
+    },
+    {
+      "Name": "Attack2",
+      "ID": "rbxassetid://115167687493349"
+    },
+    {
+      "Name": "Attack4",
+      "ID": "rbxassetid://111037092611514"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://77986862543099"
+    },
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://97242932244959"
+    }
+  ],
+  "Animations/witch_doctor": [
+    {
+      "Name": "WitchDoctorWhip",
+      "ID": "rbxassetid://93276102566296"
+    },
+    {
+      "Name": "ShareThePain",
+      "ID": "rbxassetid://94798132533627"
+    },
+    {
+      "Name": "Tax",
+      "ID": "rbxassetid://79466780247489"
+    },
+    {
+      "Name": "TaxLoop",
+      "ID": "rbxassetid://71897740860424"
+    }
+  ],
+  "MonsterModels/Monsters/.Agaricid/Animations": [
+    {
+      "Name": "Running",
+      "ID": "rbxassetid://70666568306088"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://114342133978132"
+    },
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://112810204131778"
+    },
+    {
+      "Name": "BasicAttack3",
+      "ID": "rbxassetid://126784076435660"
+    },
+    {
+      "Name": "BasicAttack1",
+      "ID": "rbxassetid://97209925955886"
+    },
+    {
+      "Name": "BasicAttack2",
+      "ID": "rbxassetid://72292745967312"
+    },
+    {
+      "Name": "BasicAttack4",
+      "ID": "rbxassetid://72434957684117"
+    },
+    {
+      "Name": "Stagger",
+      "ID": "rbxassetid://87246545963986"
+    },
+    {
+      "Name": "AcidOverdrive",
+      "ID": "rbxassetid://87320151262865"
+    },
+    {
+      "Name": "Leap",
+      "ID": "rbxassetid://86095714417530"
+    },
+    {
+      "Name": "Dodge1",
+      "ID": "rbxassetid://93951271277842"
+    },
+    {
+      "Name": "Dodge2",
+      "ID": "rbxassetid://96555639821540"
+    }
+  ],
+  "MonsterModels/Monsters/.Abomination/Animations": [
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://18658617318"
+    },
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://18658626396"
+    },
+    {
+      "Name": "Combo",
+      "ID": "rbxassetid://18658636974"
+    },
+    {
+      "Name": "Leap",
+      "ID": "rbxassetid://18658642030"
+    },
+    {
+      "Name": "Kick",
+      "ID": "rbxassetid://18658650073"
+    },
+    {
+      "Name": "Grab",
+      "ID": "rbxassetid://18658656506"
+    }
+  ],
+  "Animations/Weapons/TrainedFistsM1s": [
+    {
+      "Name": "1",
+      "ID": "rbxassetid://16104535677"
+    },
+    {
+      "Name": "2",
+      "ID": "rbxassetid://16104538511"
+    },
+    {
+      "Name": "3",
+      "ID": "rbxassetid://16104540400"
+    },
+    {
+      "Name": "4",
+      "ID": "rbxassetid://16104543160"
+    },
+    {
+      "Name": "5",
+      "ID": "rbxassetid://16104545592"
+    }
+  ],
+  "MonsterModels/Monsters/.Slime/Animations": [
+    {
+      "Name": "AttackWindup",
+      "ID": "rbxassetid://16127181863"
+    },
+    {
+      "Name": "SpawnAnimation",
+      "ID": "rbxassetid://16126430087"
+    },
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://16126518839"
+    },
+    {
+      "Name": "AttackHit",
+      "ID": "rbxassetid://16144134483"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://18464689356"
+    }
+  ],
+  "Animations/MonsterAnimations/.CorruptedProwler": [
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://15686042760"
+    },
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://15689250924"
+    },
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://15686010313"
+    },
+    {
+      "Name": "Attack3",
+      "ID": "rbxassetid://15686010313"
+    },
+    {
+      "Name": "Attack2",
+      "ID": "rbxassetid://15688996008"
+    },
+    {
+      "Name": "Attack4",
+      "ID": "rbxassetid://15686010313"
+    },
+    {
+      "Name": "Knocked",
+      "ID": "rbxassetid://15309667947"
+    },
+    {
+      "Name": "Aggro",
+      "ID": "rbxassetid://15688736860"
+    },
+    {
+      "Name": "Grip",
+      "ID": "rbxassetid://15689269270"
+    }
+  ],
+  "Animations/Weapons/CutlassM1s": [
+    {
+      "Name": "1",
+      "ID": "rbxassetid://121361663044027"
+    },
+    {
+      "Name": "2",
+      "ID": "rbxassetid://94225487887674"
+    },
+    {
+      "Name": "3",
+      "ID": "rbxassetid://97631998620115"
+    },
+    {
+      "Name": "4",
+      "ID": "rbxassetid://79549636053233"
+    }
+  ],
+  "MonsterModels/Monsters/.FrogGuardFist/Animations": [
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://70908760408218"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://84733757323222"
+    },
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://83641751981908"
+    },
+    {
+      "Name": "Attack2",
+      "ID": "rbxassetid://97658129879185"
+    },
+    {
+      "Name": "Attack3",
+      "ID": "rbxassetid://98653740554466"
+    }
+  ],
+  "MonsterModels/Monsters/.Cacto/Animations": [
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://85173844296261"
+    },
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://96834212777290"
+    },
+    {
+      "Name": "NeedleCharge",
+      "ID": "rbxassetid://17015134465"
+    },
+    {
+      "Name": "Grip",
+      "ID": "rbxassetid://15851490151"
+    },
+    {
+      "Name": "Sweep",
+      "ID": "rbxassetid://17015027213"
+    },
+    {
+      "Name": "NeedleLoop",
+      "ID": "rbxassetid://17015083245"
+    },
+    {
+      "Name": "FormCactus",
+      "ID": "rbxassetid://17016128979"
+    },
+    {
+      "Name": "Slam",
+      "ID": "rbxassetid://18822790470"
+    },
+    {
+      "Name": "Kick",
+      "ID": "rbxassetid://127096173266284"
+    },
+    {
+      "Name": "Swings",
+      "ID": "rbxassetid://136042149854500"
+    }
+  ],
+  "MonsterModels/Monsters/.Colu/Animations": [
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://94218084616941"
+    },
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://110122858722142"
+    },
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://102166337173259"
+    },
+    {
+      "Name": "Attack2",
+      "ID": "rbxassetid://88026955646274"
+    },
+    {
+      "Name": "Attack3",
+      "ID": "rbxassetid://114668625400138"
+    }
+  ],
+  "Animations/Weapons/MeowmereM1s": [
+    {
+      "Name": "1",
+      "ID": "rbxassetid://127516852023279"
+    },
+    {
+      "Name": "2",
+      "ID": "rbxassetid://110626599133090"
+    },
+    {
+      "Name": "3",
+      "ID": "rbxassetid://113511054007379"
+    },
+    {
+      "Name": "4",
+      "ID": "rbxassetid://78968704362853"
+    }
+  ],
+  "MonsterModels/Monsters/.SunGuardian/Animations": [
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://95230409085456"
+    },
+    {
+      "Name": "Attack2",
+      "ID": "rbxassetid://111572288778009"
+    },
+    {
+      "Name": "Attack3",
+      "ID": "rbxassetid://71181415687372"
+    },
+    {
+      "Name": "Attack4",
+      "ID": "rbxassetid://135601908678046"
+    },
+    {
+      "Name": "Attack5",
+      "ID": "rbxassetid://135154953109844"
+    },
+    {
+      "Name": "Attack6",
+      "ID": "rbxassetid://124480947299494"
+    },
+    {
+      "Name": "Attack7",
+      "ID": "rbxassetid://114702012205126"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://77607506594609"
+    },
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://77607506594609"
+    },
+    {
+      "Name": "Block",
+      "ID": "rbxassetid://94319685306637"
+    }
+  ],
+  "Animations/MonsterAnimations/.Mummy": [
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://15257636123"
+    },
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://15435359660"
+    },
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://15435948859"
+    },
+    {
+      "Name": "DustSweep",
+      "ID": "rbxassetid://15435990678"
+    },
+    {
+      "Name": "Attack2",
+      "ID": "rbxassetid://15435953349"
+    },
+    {
+      "Name": "Eat Player",
+      "ID": "rbxassetid://15300655347"
+    },
+    {
+      "Name": "Player Eaten",
+      "ID": "rbxassetid://15300696404"
+    },
+    {
+      "Name": "BeingGripped",
+      "ID": "rbxassetid://15309667947"
+    },
+    {
+      "Name": "BeingCarried",
+      "ID": "rbxassetid://15311261198"
+    },
+    {
+      "Name": "Knocked",
+      "ID": "rbxassetid://15309667947"
+    },
+    {
+      "Name": "Aggro",
+      "ID": "rbxassetid://15318099038"
+    },
+    {
+      "Name": "Attack3",
+      "ID": "rbxassetid://15435958982"
+    }
+  ],
+  "MonsterModels/Monsters/.WingedAntlion/Animations": [
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://91710897895902"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://83616733214488"
+    },
+    {
+      "Name": "Attack2",
+      "ID": "rbxassetid://99454647086558"
+    },
+    {
+      "Name": "Attack3",
+      "ID": "rbxassetid://114236004017583"
+    },
+    {
+      "Name": "Attack4",
+      "ID": "rbxassetid://105108662702207"
+    },
+    {
+      "Name": "Attack4Grab",
+      "ID": "rbxassetid://99509694888316"
+    }
+  ],
+  "MonsterModels/Monsters/.Harpy/Animations": [
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://18543068193"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://18543065985"
+    },
+    {
+      "Name": "Kick",
+      "ID": "rbxassetid://18543070463"
+    },
+    {
+      "Name": "Downslam",
+      "ID": "rbxassetid://18543074006"
+    },
+    {
+      "Name": "Lunge",
+      "ID": "rbxassetid://18543077536"
+    }
+  ],
+  "Animations/daemon_smith": [
+    {
+      "Name": "GunCock",
+      "ID": "rbxassetid://17608082660"
+    },
+    {
+      "Name": "Runeforge",
+      "ID": "rbxassetid://18869643411"
+    },
+    {
+      "Name": "Hammersmash",
+      "ID": "rbxassetid://18740554900"
+    }
+  ],
+  "MonsterModels/Monsters/.Hellbat/Animations": [
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://18482693272"
+    },
+    {
+      "Name": "DashAttack",
+      "ID": "rbxassetid://18483411505"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://18482690017"
+    },
+    {
+      "Name": "ShootProjectile",
+      "ID": "rbxassetid://18483465219"
+    },
+    {
+      "Name": "Flamethrower",
+      "ID": "rbxassetid://18497500757"
+    }
+  ],
+  "MonsterModels/Monsters/.VolcanicEnt/Animations": [
+    {
+      "Name": "Grip",
+      "ID": "rbxassetid://15708087385"
+    },
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://75011747185787"
+    },
+    {
+      "Name": "Attack2",
+      "ID": "rbxassetid://118522772874117"
+    },
+    {
+      "Name": "Attack3",
+      "ID": "rbxassetid://98110167320292"
+    },
+    {
+      "Name": "Attack4",
+      "ID": "rbxassetid://75876502277045"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://113826212799065"
+    },
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://93575698670725"
+    },
+    {
+      "Name": "Block",
+      "ID": "rbxassetid://122447936816508"
+    },
+    {
+      "Name": "Awaken",
+      "ID": "rbxassetid://127038116435128"
+    }
+  ],
+  "MonsterModels/Monsters/.CrimsonSlime/Animations": [
+    {
+      "Name": "SpawnAnimation",
+      "ID": "rbxassetid://16126430087"
+    },
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://16126518839"
+    }
+  ],
+  "Animations/Weapons/VoidHandsM1s": [
+    {
+      "Name": "1",
+      "ID": "rbxassetid://17506776132"
+    },
+    {
+      "Name": "2",
+      "ID": "rbxassetid://17506778798"
+    },
+    {
+      "Name": "3",
+      "ID": "rbxassetid://17506781075"
+    },
+    {
+      "Name": "4",
+      "ID": "rbxassetid://17506790566"
+    },
+    {
+      "Name": "5",
+      "ID": "rbxassetid://17506792014"
+    }
+  ],
+  "MonsterModels/Monsters/.Zilardtest3/Animations": [
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://17074370945"
+    },
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://17074383132"
+    },
+    {
+      "Name": "Attack2",
+      "ID": "rbxassetid://17074392457"
+    },
+    {
+      "Name": "Attack3",
+      "ID": "rbxassetid://17074394390"
+    },
+    {
+      "Name": "Attack4",
+      "ID": "rbxassetid://17074421311"
+    },
+    {
+      "Name": "Grip",
+      "ID": "rbxassetid://17074504978"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://17074924902"
+    }
+  ],
+  "Animations/Weapons/BLM1s": [
+    {
+      "Name": "1",
+      "ID": "rbxassetid://16483397075"
+    },
+    {
+      "Name": "2",
+      "ID": "rbxassetid://16483341565"
+    },
+    {
+      "Name": "3",
+      "ID": "rbxassetid://16483327443"
+    },
+    {
+      "Name": "4",
+      "ID": "rbxassetid://16483422954"
+    },
+    {
+      "Name": "5",
+      "ID": "rbxassetid://16483465468"
+    }
+  ],
+  "MonsterModels/Monsters/.LesserCoroblob/Animations": [
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://16234691404"
+    },
+    {
+      "Name": "Attack2",
+      "ID": "rbxassetid://16248256511"
+    },
+    {
+      "Name": "Grab",
+      "ID": "rbxassetid://16248433515"
+    },
+    {
+      "Name": "GrabSlam",
+      "ID": "rbxassetid://16248921964"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://16234396552"
+    },
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://16234376583"
+    },
+    {
+      "Name": "Stun1",
+      "ID": "rbxassetid://16234410594"
+    },
+    {
+      "Name": "TP",
+      "ID": "rbxassetid://18482148391"
+    }
+  ],
+  "MonsterModels/Monsters/.Yeti/Animations": [
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://104410130656023"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://71868588373210"
+    },
+    {
+      "Name": "Kick",
+      "ID": "rbxassetid://122310895039286"
+    },
+    {
+      "Name": "Stomp",
+      "ID": "rbxassetid://104670536496397"
+    },
+    {
+      "Name": "Throw",
+      "ID": "rbxassetid://112073744944483"
+    }
+  ],
+  "Animations/NPCIdles": [
+    {
+      "Name": "Normal",
+      "ID": "rbxassetid://82809388081546"
+    },
+    {
+      "Name": "SclaraBall",
+      "ID": "rbxassetid://107343399752868"
+    },
+    {
+      "Name": "Rocking",
+      "ID": "rbxassetid://99880081996374"
+    },
+    {
+      "Name": "SmartLeaning",
+      "ID": "rbxassetid://132258548910336"
+    },
+    {
+      "Name": "FlorianDig",
+      "ID": "rbxassetid://71221864198510"
+    },
+    {
+      "Name": "Griddy",
+      "ID": "rbxassetid://16384367275"
+    },
+    {
+      "Name": "Gloop",
+      "ID": "rbxassetid://132376470924147"
+    },
+    {
+      "Name": "HandsInPockets",
+      "ID": "rbxassetid://109169503161258"
+    },
+    {
+      "Name": "Injured",
+      "ID": "rbxassetid://95890388058068"
+    },
+    {
+      "Name": "VerusThinking",
+      "ID": "rbxassetid://105628605592344"
+    },
+    {
+      "Name": "Minty",
+      "ID": "rbxassetid://121167995041985"
+    },
+    {
+      "Name": "Bully",
+      "ID": "rbxassetid://137023108337365"
+    },
+    {
+      "Name": "BullyVictim",
+      "ID": "rbxassetid://74890199162216"
+    },
+    {
+      "Name": "Lugnak",
+      "ID": "rbxassetid://102741314061007"
+    },
+    {
+      "Name": "Dance1",
+      "ID": "rbxassetid://182435998"
+    },
+    {
+      "Name": "SlimeHolding",
+      "ID": "rbxassetid://136696704643755"
+    },
+    {
+      "Name": "Manifesto",
+      "ID": "rbxassetid://116380430604502"
+    },
+    {
+      "Name": "Chill",
+      "ID": "rbxassetid://108649629583861"
+    },
+    {
+      "Name": "Kneel",
+      "ID": "rbxassetid://97905643859423"
+    },
+    {
+      "Name": "Pride",
+      "ID": "rbxassetid://134574694739203"
+    },
+    {
+      "Name": "Roboko",
+      "ID": "rbxassetid://117427616635568"
+    }
+  ],
+  "Animations/Weapons/FistsM1s": [
+    {
+      "Name": "1",
+      "ID": "rbxassetid://15084976996"
+    },
+    {
+      "Name": "2",
+      "ID": "rbxassetid://15084980343"
+    },
+    {
+      "Name": "3",
+      "ID": "rbxassetid://15084992045"
+    },
+    {
+      "Name": "4",
+      "ID": "rbxassetid://15084993976"
+    },
+    {
+      "Name": "5",
+      "ID": "rbxassetid://15144477667"
+    }
+  ],
+  "MonsterModels/Monsters/.DesertEnt/Animations": [
+    {
+      "Name": "Grip",
+      "ID": "rbxassetid://15708087385"
+    },
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://75011747185787"
+    },
+    {
+      "Name": "Attack2",
+      "ID": "rbxassetid://118522772874117"
+    },
+    {
+      "Name": "Attack3",
+      "ID": "rbxassetid://75643856752021"
+    },
+    {
+      "Name": "Attack4",
+      "ID": "rbxassetid://75876502277045"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://113826212799065"
+    },
+    {
+      "Name": "Walking",
+      "ID": "rbxassetid://93575698670725"
+    },
+    {
+      "Name": "Block",
+      "ID": "rbxassetid://122447936816508"
+    },
+    {
+      "Name": "Awaken",
+      "ID": "rbxassetid://127038116435128"
+    }
+  ],
+  "MonsterModels/Monsters/.Lurker/Animations": [
+    {
+      "Name": "Run",
+      "ID": "rbxassetid://18704414753"
+    },
+    {
+      "Name": "Lunge",
+      "ID": "rbxassetid://18485473050"
+    },
+    {
+      "Name": "Bite",
+      "ID": "rbxassetid://18486340358"
+    },
+    {
+      "Name": "Wander",
+      "ID": "rbxassetid://18481845308"
+    },
+    {
+      "Name": "Swipes",
+      "ID": "rbxassetid://18486548498"
+    },
+    {
+      "Name": "Idle",
+      "ID": "rbxassetid://18481877130"
+    },
+    {
+      "Name": "ExecuteNew",
+      "ID": "rbxassetid://130981033686781"
+    },
+    {
+      "Name": "Knocked",
+      "ID": "rbxassetid://18486965068"
+    },
+    {
+      "Name": "BeingCarried",
+      "ID": "rbxassetid://15311261198"
+    },
+    {
+      "Name": "OnKnock",
+      "ID": "rbxassetid://18486930577"
+    },
+    {
+      "Name": "Jog",
+      "ID": "rbxassetid://85307002579435"
+    },
+    {
+      "Name": "Yell",
+      "ID": "rbxassetid://15318099038"
+    },
+    {
+      "Name": "Execute",
+      "ID": "rbxassetid://17891975381"
+    },
+    {
+      "Name": "Dig",
+      "ID": "rbxassetid://120185546765112"
+    },
+    {
+      "Name": "Attack1",
+      "ID": "rbxassetid://120700479735412"
+    },
+    {
+      "Name": "Attack2",
+      "ID": "rbxassetid://130574724684615"
+    },
+    {
+      "Name": "Attack3",
+      "ID": "rbxassetid://81922712473326"
+    },
+    {
+      "Name": "Attack4",
+      "ID": "rbxassetid://78142851512461"
+    }
+  ]
+}
